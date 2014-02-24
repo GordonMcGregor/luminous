@@ -1,3 +1,20 @@
+/*
+   Copyright 2014 Gordon McGregor
+
+   Licensed under the Apache License, Version 2.0 (the "License");
+   you may not use this file except in compliance with the License.
+   You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+   Unless required by applicable law or agreed to in writing, software
+   distributed under the License is distributed on an "AS IS" BASIS,
+   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+   See the License for the specific language governing permissions and
+   limitations under the License.
+*/
+
+
 #include <Adafruit_NeoPixel.h>
 
 #define PIN 6
@@ -22,6 +39,24 @@ void setup() {
 }
 
 void loop() {
+
+  /* Maybe use protothreads here to simplify I/O management? */
+
+  /* Sample slider capacitances */ 
+
+  /* two, two input capacitive sliders so 4 values to capture 
+   can they be sampled in parallel or combined more sensibly? 
+     is it fast enough just to get the results serially ? */
+
+
+   /* Sample light levels via light sensor */
+
+   /* Sample 3 push button and pot states */
+
+   /* drive output appropriately based on the input sensors */
+
+
+
   // Some example procedures showing how to display to the pixels:
   colorWipe(strip.Color(255, 0, 0), 50); // Red
   colorWipe(strip.Color(0, 255, 0), 50); // Green
