@@ -55,9 +55,12 @@ ARDUINO_PINS = /Applications/Arduino.app/Contents/Resources/Java/hardware/arduin
 ARDUINO = /Applications/Arduino.app/Contents/Resources/Java/hardware/arduino/cores/arduino
 SRC = $(ARDUINO_LIBC)/malloc.c $(ARDUINO_LIBC)/realloc.c $(ARDUINO)/WInterrupts.c $(ARDUINO)/wiring.c \
   $(ARDUINO)/wiring_analog.c $(ARDUINO)/wiring_digital.c $(ARDUINO)/wiring_pulse.c $(ARDUINO)/wiring_shift.c 
-CXXSRC = $(TARGET).cpp $(ARDUINO)/HardwareSerial.cpp $(ARDUINO)/CDC.cpp $(ARDUINO)/HID.cpp $(ARDUINO)/IPAddress.cpp \
+CXXSRC = $(ARDUINO)/HardwareSerial.cpp $(ARDUINO)/CDC.cpp $(ARDUINO)/HID.cpp $(ARDUINO)/IPAddress.cpp \
          $(ARDUINO)/main.cpp $(ARDUINO)/new.cpp $(ARDUINO)/Print.cpp $(ARDUINO)/Stream.cpp $(ARDUINO)/Tone.cpp \
          $(ARDUINO)/USBCore.cpp $(ARDUINO)/WMath.cpp $(ARDUINO)/WString.cpp $(ADAFRUIT)/Adafruit_NeoPixel.cpp
+
+QTOUCH_LIB = ../qtouchlib/thirdparty/qtouch/generic/avr8/qtouch/lib/gcc/libavr5g1-8qt-k-0rs.a
+QTOUCH_INC = -I../qtouchlib/thirdparty/qtouch/generic/avr8/qtouch/common -I../qtouchlib/thirdparty/qtouch/generic/include -I../qtouchlib/thirdparty/qtouch/generic/avr8/qtouch/examples/avr5g1_qt_example
 MCU = atmega328p
 F_CPU = 16000000L
 FORMAT = ihex
@@ -78,8 +81,8 @@ CDEFS = -DF_CPU=$(F_CPU) -DARDUINO=105 -DUSB_VID=null -DUSB_PID=null -MMD
 CXXDEFS = -DF_CPU=$(F_CPU) -DARDUINO=105 -DUSB_VID=null -DUSB_PID=null -MMD
 
 # Place -I options here
-CINCS = -I$(ARDUINO) -I$(ARDUINO_PINS) -I$(ADAFRUIT)
-CXXINCS = -I$(ARDUINO) -I$(ARDUINO_PINS) -I$(ADAFRUIT)
+CINCS = -I$(ARDUINO) -I$(ARDUINO_PINS) -I$(ADAFRUIT) $(QTOUCH_INC)
+CXXINCS = -I$(ARDUINO) -I$(ARDUINO_PINS) -I$(ADAFRUIT) $(QTOUCH_INC)
 
 # Compiler flag to set the C Standard level.
 # c89   - "ANSI" C
@@ -89,16 +92,16 @@ CXXINCS = -I$(ARDUINO) -I$(ARDUINO_PINS) -I$(ADAFRUIT)
 CSTANDARD = -std=gnu99
 CDEBUG = -g$(DEBUG)
 CWARN = -Wall -Wstrict-prototypes  -Os 
-CTUNING = -funsigned-char -funsigned-bitfields -fpack-struct -fshort-enums -fno-exceptions -ffunction-sections -fdata-sections
+CTUNING = -funsigned-char -funsigned-bitfields -fpack-struct -fshort-enums -fno-exceptions -ffunction-sections -fdata-sections -Wl,--gc-sections 
 #CEXTRA = -Wa,-adhlns=$(<:.c=.lst)
+
 
  
 
 CFLAGS = $(CDEBUG) $(CDEFS) $(CINCS) -O$(OPT) $(CWARN) $(CSTANDARD) $(CEXTRA)
 CXXFLAGS = $(CDEFS) $(CINCS) -O$(OPT)
 #ASFLAGS = -Wa,-adhlns=$(<:.S=.lst),-gstabs 
-LDFLAGS = 
-
+LDFLAGS = $(QTOUCH_LIB)
 
 # Programming support using avrdude. Settings and variables.
 AVRDUDE_PROGRAMMER = stk500
@@ -119,7 +122,7 @@ REMOVE = rm -f
 MV = mv -f
 
 # Define all object files.
-OBJ = $(SRC:.c=.o) $(CXXSRC:.cpp=.o) $(ASRC:.S=.o)
+CORE_OBJ = $(SRC:.c=.o) $(CXXSRC:.cpp=.o) $(ASRC:.S=.o)
 
 # Define all listing files.
 LST = $(ASRC:.S=.lst) $(CXXSRC:.cpp=.lst) $(SRC:.c=.lst)
@@ -182,12 +185,12 @@ extcoff: $(TARGET).elf
 .elf.sym:
 	$(NM) -n $< > $@
 
-core.a: $(OBJ)
-	$(AR) rcs core.a $(OBJ)
+core.a: $(CORE_OBJ)
+	$(AR) rcs core.a $(CORE_OBJ)
 
 # Link: create ELF output file from object files.
-$(TARGET).elf: $(OBJ) core.a
-	$(CC) $(ALL_CFLAGS) core.a --output $@ $(LDFLAGS)
+$(TARGET).elf: luminous.o core.a
+	$(CC) $(ALL_CFLAGS) --output $@ $(LDFLAGS) luminous.o core.a 
 
 
 # Compile: create object files from C++ source files.
@@ -214,7 +217,7 @@ $(TARGET).elf: $(OBJ) core.a
 clean:
 	$(REMOVE) $(TARGET).hex $(TARGET).eep $(TARGET).cof $(TARGET).elf \
 	$(TARGET).map $(TARGET).sym $(TARGET).lss \
-	$(OBJ) $(LST) $(SRC:.c=.s) $(SRC:.c=.d) $(CXXSRC:.cpp=.s) $(CXXSRC:.cpp=.d) core.a
+	$(CORE_OBJ) $(LST) $(SRC:.c=.s) $(SRC:.c=.d) $(CXXSRC:.cpp=.s) $(CXXSRC:.cpp=.d) core.a $(TARGET).d $(TARGET).o
 
 depend:
 	if grep '^# DO NOT DELETE' $(MAKEFILE) >/dev/null; \

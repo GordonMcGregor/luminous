@@ -14,8 +14,14 @@
    limitations under the License.
 */
 
+#include <avr/io.h>
+#include <avr/interrupt.h>
+#define __delay_cycles(n)     __builtin_avr_delay_cycles(n)
+#define __enable_interrupt()  sei()
+
 
 #include <Adafruit_NeoPixel.h>
+#include "touch_api.h"
 
 #define PIN 6
 
@@ -25,6 +31,8 @@ void theaterChaseRainbow(uint8_t wait);
 void theaterChase(uint32_t c, uint8_t wait);
 void rainbowCycle(uint8_t wait);
 uint32_t Wheel(byte WheelPos);
+ 
+
 
 // Parameter 1 = number of pixels in strip
 // Parameter 2 = Arduino pin number (most are valid)
