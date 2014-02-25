@@ -1,0 +1,11 @@
+<asf xmlversion="1.0">
+
+	<select-by-device id="qtouch.templates_init.device" caption="">
+		
+		<module type="meta" id="qtouch.templates_init.device#xmega" caption="device peripheral initialisation">
+			<build type="c-source" value="init_mcu_atxmega.c" />
+			<device-support value="xmega" />			
+		</module>		
+	
+	</select-by-device>	
+</asf>

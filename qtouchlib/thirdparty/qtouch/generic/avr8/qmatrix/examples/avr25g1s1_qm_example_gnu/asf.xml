@@ -1,0 +1,43 @@
+<asf xmlversion="1.0">
+<select-by-device id="qtlib.generic.tmx.qm.avr25g1s1.device" caption="">
+<module id="qtlib.generic.tmx.qm.avr25g1s1.device#attiny48" caption="" type="component">
+<build type="c-source" value="../../../../../templates_init/init_mcu_attiny48.c" />
+<device-support value="attiny48" />
+</module>
+
+<module id="qtlib.generic.tmx.qm.avr25g1s1.device#attiny88" caption="" type="component">
+<build type="c-source" value="../../../../../templates_init/init_mcu_attiny88.c" />
+<build type="c-source" value="SPI_Master.c" />
+<build type="header-file" value="SPI_Master.h" />
+<build type="c-source" value="TWI_Master.c" />
+<build type="header-file" value="TWI_Master.h" />
+<device-support value="attiny88" />
+</module>
+
+</select-by-device>
+
+	<module type="component" id="qtlib.generic.tmx.qm.avr25g1s1" caption="QTouch Project for AVR25G1S1group">
+		<build type="header-file" value="../../../../include/touch_api.h"/>
+		<build type="c-source" value="BitBangSPI_Master.c" />
+        <build type="header-file" value="BitBangSPI_Master.h" />				
+	    <build type="header-file" value="QDebugSettings.h" />
+		<build type="c-source" value="../../../../../qdebug/eeprom_access.c" /> 
+		<build type="header-file" value="../../../../../qdebug/eeprom_access.h" /> 
+		<build type="c-source" value="../../../../../qdebug/QDebug.c" />
+		<build type="c-source" value="../../../../../qdebug/QDebugTransport.c" />
+		<build type="header-file" value="../../../../../qdebug/QDebug.h" />
+		<build type="header-file" value="../../../../../qdebug/QDebugTransport.h" />
+		<build type="header-file" value="../../common/qm_asm_avr.h" />
+		<build type="asm-source" value="../../common/qm_asm_tiny_mega.s" />
+		<build type="include-path" value="../../../../include"/>
+		<build type="include-path" value="../../../../../qdebug"/>
+		<require idref="qtlib.generic.tmx.qm.avr25g1s1.device"/>
+		<device-support value="attiny48" />
+		<device-support value="attiny88" />
+		<build type="distribute" subtype="file" value="../../../../../license.txt"/>
+		
+		<info type="keyword" value="technology">
+			<keyword value="Touch"/>
+		</info>
+	</module>
+</asf>

@@ -1,0 +1,22 @@
+<asf xmlversion="1.0">
+	<project caption="QTouch method Example Application for QT600" id="common.services.qtouch.generic.avr8.qtouch.examples.example_qt_qt600_tiny.qtextension.project">
+		<info type="description" value="summary">
+		This QTouch Library Example demonstrates usage of the QTouch method and QDebug on QT600 board.
+		A QT600 Bridge is used as interface with Qtouch Analyser tools.
+		</info>
+		
+		<build type="c-source" value="main.c" />
+
+      		<require idref="common.services.qtouch.generic.avr8.qtouch.examples.example_qt_qt600_tiny.qtextension" />
+		
+		<device-support value="attiny88" />
+
+		<generator value="avrgcc"/>
+		<generator value="as5_8"/>
+		<generator value="doxygen"/>
+
+		<build type="distribute" subtype="file" value="../../../../../../license.txt"/>
+
+
+	</project>		
+</asf>

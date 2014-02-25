@@ -1,0 +1,17 @@
+<asf xmlversion="1.0">
+
+	<module type="meta" id="qtouch.qdebug.qtextension" caption="Board QDebug support">
+		<info type="description" value="summary">
+		Board QDebug support through TWI or SPI or Bit-Bang SPI interface
+		</info>	
+	   	
+		<build type="c-source" value="eeprom_access.c" /> 
+		<build type="header-file" value="eeprom_access.h" /> 
+		<build type="c-source" value="QDebug.c" />
+		<build type="header-file" value="QDebug.h" />
+		<build type="c-source" value="QDebugTransport.c" />
+		<build type="header-file" value="QDebugTransport.h" />	
+		<build type="include-path" value="."/>
+
+	</module>
+</asf>

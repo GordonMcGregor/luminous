@@ -1,0 +1,45 @@
+<asf xmlversion="1.0">
+
+<select-by-device id="qtlib.generic.tmx.qt.at91sam.device" caption="">
+	
+<module id="qtlib.generic.tmx.qt.at91sam.device#atsam4lc4c" caption="" type="component">		
+
+
+
+      <build type="include-path" value="." />          
+
+      <build type="include-path" value="../../include" /> 
+      <build type="header-file" subtype="api" value="../../include/touch_api_sam4l.h" />
+      
+      <build type="include-path" value="conf" />
+      <build type="header-file" subtype="api" value="conf\QDebugSettings.h" />
+      <build type="header-file" value="conf\conf_clock.h" />
+      <build type="header-file" value="conf\conf_sleepmgr.h" />
+	  <build type="header-file" value="conf\conf_ast.h" />	
+          
+      <require-external idref="sam.drivers.usart" eidref="atmel.asf" />
+	  <require-external idref="sam.drivers.ast" eidref="atmel.asf" />
+      <require-external idref="common.services.basic.clock" eidref="atmel.asf" />
+      <require-external idref="common.services.basic.sleepmgr" eidref="atmel.asf" />
+      <require-external idref="common.services.ioport" eidref="atmel.asf" />      
+           
+      <!--<require-external idref="config.common.services.qtouch.qdebug.qt600.sam4l" eidref="atmel.asf" />-->      
+      <!--<config name="config.common.services.qtouch.qdebug.qt600.sam4l" value="yes" />-->
+      <build type="include-path" value="../../qdebug" />
+      <build type="c-source" value="../../qdebug/BitBangSPI_Master.c" />
+      <build type="c-source" value="../../qdebug/QDebug_sam4l.c" />
+      <build type="c-source" value="../../qdebug/QDebugTransport.c" />      
+      <build type="header-file" subtype="api" value="../../qdebug/BitBangSPI_Master.h" />
+      <build type="header-file" subtype="api" value="../../qdebug/QDebug_sam4l.h" />
+      <build type="header-file" subtype="api" value="../../qdebug/QDebugTransport.h" />      
+      <require-external idref="common.services.delay" eidref="atmel.asf" />
+      <require-external idref="common.services.ioport" eidref="atmel.asf" />
+			
+      <build type="define" name="__ATSAM4LC4C__" value="" />
+      <device-support value="atsam4lc4c" />
+
+</module>
+	
+</select-by-device>
+
+</asf>

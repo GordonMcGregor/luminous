@@ -1,0 +1,16 @@
+<asf xmlversion="1.0">
+	<module type="meta" id="qtouch.generic.avr8.qmatrix.common.xmega.qtextension" caption="Atmel QTouch Library - Common files">
+	    <info type="description" value="summary">
+		The pre-compiled QTouch Library, common files for AVR 8-bit xmega devices.
+		For more information on the QTouch Library, goto www.atmel.com/qtouchlib.
+		For support queries, email touch@atmel.com.
+		</info>		
+		<info type="keyword" value="technology">
+			<keyword value="touch" />
+		</info>	
+
+		<build type="header-file" value="qm_asm_avr.h" />
+		<build type="asm-source" value="qm_asm_xmega.s" />
+		<build type="include-path" value="."/>		
+	</module>
+</asf>

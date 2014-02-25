@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asf xmlversion="1.0">
+  <module type="component" id="libsamd20_qtouch_gcc.a" caption="libsamd20_qtouch_gcc.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libsamd20_qtouch_gcc.a" />
+  </module>
+</asf>

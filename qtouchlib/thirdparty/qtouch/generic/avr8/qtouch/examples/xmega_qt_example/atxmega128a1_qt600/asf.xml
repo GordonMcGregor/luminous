@@ -1,0 +1,25 @@
+<asf xmlversion="1.0">
+	<module type="application" id="common.services.qtouch.generic.avr8.qtouch.examples.example_qt_qt600.xmega.qtextension" caption="QTouch method Example Application for ATxmega128A1">
+		<info type="description" value="summary">
+		This QTouch Library Example Application demonstrates usage of the QTouch method and QDebug through QT600 board.
+		</info>
+		
+		<build type="c-source" value="touch.c" />
+		<build type="c-source" value="init_mcu_atxmega128a1.c" />
+		<build type="header-file" value="touch.h" />
+
+		<require idref="qtouch.generic.avr8.qtouch.common.xmega.qtextension"/>
+		<require idref="qtouch.generic.avr8.qtouch.examples.xmega.qtextension"/>		
+		<require idref="qtouch.qdebug.qtextension"/>	
+		<require idref="qtouch.generic.include.touch_api.qtextension"/>    		
+		<require-external idref="common.services.basic.clock" eidref="atmel.asf" />
+		<require-external idref="xmega.drivers.cpu" eidref="atmel.asf" />
+		<require-external idref="xmega.drivers.tc" eidref="atmel.asf" />
+		<build type="include-path" value="../atxmega128a1_qt600"/>		
+		<device-support value="atxmega128a1" />
+
+		<info type="keyword" value="technology">
+		<keyword value="Touch"/>
+		</info>
+	</module>
+</asf>

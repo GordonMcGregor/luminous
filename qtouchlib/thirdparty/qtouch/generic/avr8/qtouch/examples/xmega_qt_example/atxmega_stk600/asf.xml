@@ -1,0 +1,32 @@
+<asf xmlversion="1.0">
+
+	
+		<module type="component" id="qtlib.generic.tmx.qt.avrxmega" caption="QTouch Project for ATXmega Group MCU">
+
+			<require idref="qtouch.generic.include.touch_api.qtextension"/>
+			<require idref="qtouch.generic.avr8.qtouch.common.xmega.qtextension"/>
+
+			<require idref="qtouch.qdebug.qtextension"/>	
+			
+			<require idref="qtouch.generic.avr8.qtouch.examples.xmega.conf.qtextension" />
+			<require-external idref="common.services.basic.clock" eidref="atmel.asf" />
+			<require-external idref="xmega.drivers.cpu" eidref="atmel.asf" />
+			<require-external idref="xmega.drivers.tc" eidref="atmel.asf" />
+			<require idref="qtouch.templates_init.device"/>
+			<require idref="qtouch.generic.avr8.qtouch.examples.xmega.qtextension"/>
+
+			<device-support value="atxmega128a1" />
+			<device-support value="atxmega16a4" />
+			<device-support value="atxmega32a4" />
+			<device-support value="atxmega16d4" />
+			<device-support value="atxmega32d4" />
+			<device-support value="atxmega384c3" />
+			<device-support value="xmega" />
+
+			<require idref="qtouch.qtextension.license" />
+			
+			<info type="keyword" value="technology">
+				<keyword value="Touch"/>
+			</info>
+		</module>
+</asf>

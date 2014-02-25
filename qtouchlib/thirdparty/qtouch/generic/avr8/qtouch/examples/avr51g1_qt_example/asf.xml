@@ -1,0 +1,44 @@
+<asf xmlversion="1.0">
+
+<select-by-device id="qtlib.generic.tmx.qt.avr51g1.device" caption="">
+
+<module id="qtlib.generic.tmx.qt.avr51g1.device#atmega1284p" caption="" type="component">
+<build type="c-source" value="../../../../../templates_init/init_mcu_atmega1284.c" />
+<device-support value="atmega1284p" />
+</module>
+
+<module id="qtlib.generic.tmx.qt.avr51g1.device#at90usb1287" caption="" type="component">
+<build type="c-source" value="../../../../../templates_init/init_mcu_at90usb1287.c" />
+<device-support value="at90usb1287" />
+</module>
+
+
+
+
+</select-by-device>
+
+	<module type="component" id="qtlib.generic.tmx.qt.avr51g1" caption="QTouch Project for AVR51G1 Group MCU">
+		<build type="header-file" value="../../../../include/touch_api.h"/>
+		<build type="c-source" value="BitBangSPI_Master.c" />
+       		<build type="header-file" value="BitBangSPI_Master.h" />				   
+	   	<build type="header-file" value="QDebugSettings.h" />
+		<build type="c-source" value="../../../../../qdebug/eeprom_access.c" /> 
+		<build type="header-file" value="../../../../../qdebug/eeprom_access.h" /> 
+		<build type="c-source" value="../../../../../qdebug/QDebug.c" />
+		<build type="c-source" value="../../../../../qdebug/QDebugTransport.c" />
+		<build type="header-file" value="../../../../../qdebug/QDebug.h" />
+		<build type="header-file" value="../../../../../qdebug/QDebugTransport.h" />
+		<build type="header-file" value="../../common/qt_asm_avr.h" />
+		<build type="asm-source" value="../../common/qt_asm_tiny_mega.s" />
+		<build type="include-path" value="../../../../include"/>
+		<build type="include-path" value="../../../../../qdebug"/>
+		<require idref="qtlib.generic.tmx.qt.avr51g1.device"/>
+		<device-support value="atmega1284p" />
+		<device-support value="at90usb1287" />
+		<build type="distribute" subtype="file" value="../../../../../license.txt"/>
+		
+		<info type="keyword" value="technology">
+			<keyword value="Touch"/>
+		</info>
+	</module>
+</asf>

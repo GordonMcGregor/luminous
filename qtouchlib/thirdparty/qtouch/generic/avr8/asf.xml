@@ -1,0 +1,18 @@
+<asf xmlversion="1.0">
+
+	<select-by-config id="config.qtouch.generic.avr8.xmega128a1_qt600.method" name="config.qtouch.generic.avr8.xmega128a1_qt600.method" caption="Atmel QTouch Library 5.1 - XMEGA128A1-QT600" default="no_method">
+		<module type="service" id="config.qtouch.generic.avr8.xmega128a1_qt600.method#no_method" caption="Atmel QTouch Library 5.1 - XMEGA128A1 - QT600">
+			
+			<device-support value="atxmega128a1"/>
+		</module>
+		<module type="service" id="config.qtouch.generic.avr8.xmega128a1_qt600.method#qtouch_method" caption="Atmel QTouch Library 5.1 - XMEGA128A1 - QT600">			
+
+			<require idref="qtouch.generic.avr8.qtouch.common.xmega.qtextension"/>
+
+			<build type="library" subtype="user" value="qtouch/lib/gcc/libavrxmega7g1-16qt-k-4rs.a" toolchain="avrgcc"/>			
+			<build type="include-path" value="."/>
+
+			<device-support value="atxmega128a1"/>
+		</module>
+	</select-by-config>
+</asf>

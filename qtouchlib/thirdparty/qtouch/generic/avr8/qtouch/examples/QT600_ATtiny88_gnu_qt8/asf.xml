@@ -1,0 +1,40 @@
+<asf xmlversion="1.0">
+	
+	<module type="application" id="common.services.qtouch.generic.avr8.qtouch.examples.example_qt_qt600_tiny.qtextension" caption="QTouch method Example Application for QT600">
+		<info type="description" value="summary">
+		This QTouch Library Example demonstrates usage of the QTouch method and QDebug on QT600 board.
+		A QT600 Bridge is used as interface with Qtouch Analyser tools.
+		</info>
+		
+		
+		
+		<build type="header-file" value="../../../../include/touch_api.h"/>
+		<build type="c-source" value="touch.c" />
+		<build type="header-file" value="touch.h" />
+		<build type="c-source" value="init_mcu_attiny88.c" />
+		
+		<build type="c-source" value="TWI_Master.c" />
+  	        <build type="header-file" value="TWI_Master.h" />		
+	        <build type="header-file" value="QDebugSettings.h" />
+		<build type="c-source" value="../../../../../qdebug/eeprom_access.c" /> 
+		<build type="header-file" value="../../../../../qdebug/eeprom_access.h" /> 
+		<build type="c-source" value="../../../../../qdebug/QDebug.c" />
+		<build type="c-source" value="../../../../../qdebug/QDebugTransport.c" />
+		<build type="header-file" value="../../../../../qdebug/QDebug.h" />
+		<build type="header-file" value="../../../../../qdebug/QDebugTransport.h" />
+		<build type="header-file" value="../../common/qt_asm_avr.h" />		
+		<build type="asm-source" value="../../common/qt_asm_tiny_mega.s" />
+		<build type="include-path" value="../../../../include"/>
+		<build type="include-path" value="../../../../../qdebug"/>
+		<build type="include-path" value="../QT600_ATtiny88_gnu_qt8"/>
+		<build type="include-path" value="../../common"/>
+		
+        	<build type="library" subtype="user" value="../../lib/gcc/libavr25g1-8qt-k-2rs.a" toolchain="avrgcc"/>
+		<device-support value="attiny88" />
+
+		
+		<info type="keyword" value="technology">
+		<keyword value="Touch"/>
+		</info>		
+	</module>
+</asf>

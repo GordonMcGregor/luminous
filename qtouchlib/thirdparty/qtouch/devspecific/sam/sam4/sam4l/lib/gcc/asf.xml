@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asf xmlversion="1.0">
+  <module type="component" id="libsam4l-qt-gnu.a" caption="libsam4l-qt-gnu.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libsam4l-qt-gnu.a" />
+  </module>
+</asf>

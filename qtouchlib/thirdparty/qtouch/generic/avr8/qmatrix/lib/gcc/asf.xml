@@ -1,0 +1,1071 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asf xmlversion="1.0">
+  <module type="component" id="libavr25g1s0_16qm_4x_4y_krs_2rs.a" caption="libavr25g1s0_16qm_4x_4y_krs_2rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr25g1s0_16qm_4x_4y_krs_2rs.a" />
+  </module>
+  <module type="component" id="libavr25g1s0_16qm_4x_4y_krs_4rs.a" caption="libavr25g1s0_16qm_4x_4y_krs_4rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr25g1s0_16qm_4x_4y_krs_4rs.a" />
+  </module>
+  <module type="component" id="libavr25g1s0_16qm_4x_4y_k_0rs.a" caption="libavr25g1s0_16qm_4x_4y_k_0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr25g1s0_16qm_4x_4y_k_0rs.a" />
+  </module>
+  <module type="component" id="libavr25g1s0_16qm_8x_2y_krs_2rs.a" caption="libavr25g1s0_16qm_8x_2y_krs_2rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr25g1s0_16qm_8x_2y_krs_2rs.a" />
+  </module>
+  <module type="component" id="libavr25g1s0_16qm_8x_2y_krs_4rs.a" caption="libavr25g1s0_16qm_8x_2y_krs_4rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr25g1s0_16qm_8x_2y_krs_4rs.a" />
+  </module>
+  <module type="component" id="libavr25g1s0_16qm_8x_2y_k_0rs.a" caption="libavr25g1s0_16qm_8x_2y_k_0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr25g1s0_16qm_8x_2y_k_0rs.a" />
+  </module>
+  <module type="component" id="libavr25g1s0_4qm_4x_1y_krs_1rs.a" caption="libavr25g1s0_4qm_4x_1y_krs_1rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr25g1s0_4qm_4x_1y_krs_1rs.a" />
+  </module>
+  <module type="component" id="libavr25g1s0_4qm_4x_1y_k_0rs.a" caption="libavr25g1s0_4qm_4x_1y_k_0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr25g1s0_4qm_4x_1y_k_0rs.a" />
+  </module>
+  <module type="component" id="libavr25g1s0_8qm_4x_2y_krs_2rs.a" caption="libavr25g1s0_8qm_4x_2y_krs_2rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr25g1s0_8qm_4x_2y_krs_2rs.a" />
+  </module>
+  <module type="component" id="libavr25g1s0_8qm_4x_2y_k_0rs.a" caption="libavr25g1s0_8qm_4x_2y_k_0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr25g1s0_8qm_4x_2y_k_0rs.a" />
+  </module>
+  <module type="component" id="libavr25g1s1_16qm_4x_4y_krs_2rs.a" caption="libavr25g1s1_16qm_4x_4y_krs_2rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr25g1s1_16qm_4x_4y_krs_2rs.a" />
+  </module>
+  <module type="component" id="libavr25g1s1_16qm_4x_4y_krs_4rs.a" caption="libavr25g1s1_16qm_4x_4y_krs_4rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr25g1s1_16qm_4x_4y_krs_4rs.a" />
+  </module>
+  <module type="component" id="libavr25g1s1_16qm_4x_4y_k_0rs.a" caption="libavr25g1s1_16qm_4x_4y_k_0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr25g1s1_16qm_4x_4y_k_0rs.a" />
+  </module>
+  <module type="component" id="libavr25g1s1_16qm_8x_2y_krs_2rs.a" caption="libavr25g1s1_16qm_8x_2y_krs_2rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr25g1s1_16qm_8x_2y_krs_2rs.a" />
+  </module>
+  <module type="component" id="libavr25g1s1_16qm_8x_2y_krs_4rs.a" caption="libavr25g1s1_16qm_8x_2y_krs_4rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr25g1s1_16qm_8x_2y_krs_4rs.a" />
+  </module>
+  <module type="component" id="libavr25g1s1_16qm_8x_2y_k_0rs.a" caption="libavr25g1s1_16qm_8x_2y_k_0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr25g1s1_16qm_8x_2y_k_0rs.a" />
+  </module>
+  <module type="component" id="libavr25g1s1_4qm_4x_1y_krs_1rs.a" caption="libavr25g1s1_4qm_4x_1y_krs_1rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr25g1s1_4qm_4x_1y_krs_1rs.a" />
+  </module>
+  <module type="component" id="libavr25g1s1_4qm_4x_1y_k_0rs.a" caption="libavr25g1s1_4qm_4x_1y_k_0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr25g1s1_4qm_4x_1y_k_0rs.a" />
+  </module>
+  <module type="component" id="libavr25g1s1_8qm_4x_2y_krs_2rs.a" caption="libavr25g1s1_8qm_4x_2y_krs_2rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr25g1s1_8qm_4x_2y_krs_2rs.a" />
+  </module>
+  <module type="component" id="libavr25g1s1_8qm_4x_2y_k_0rs.a" caption="libavr25g1s1_8qm_4x_2y_k_0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr25g1s1_8qm_4x_2y_k_0rs.a" />
+  </module>
+  <module type="component" id="libavr25g1s2_16qm_4x_4y_krs_2rs.a" caption="libavr25g1s2_16qm_4x_4y_krs_2rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr25g1s2_16qm_4x_4y_krs_2rs.a" />
+  </module>
+  <module type="component" id="libavr25g1s2_16qm_4x_4y_krs_4rs.a" caption="libavr25g1s2_16qm_4x_4y_krs_4rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr25g1s2_16qm_4x_4y_krs_4rs.a" />
+  </module>
+  <module type="component" id="libavr25g1s2_16qm_4x_4y_k_0rs.a" caption="libavr25g1s2_16qm_4x_4y_k_0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr25g1s2_16qm_4x_4y_k_0rs.a" />
+  </module>
+  <module type="component" id="libavr25g1s2_16qm_8x_2y_krs_2rs.a" caption="libavr25g1s2_16qm_8x_2y_krs_2rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr25g1s2_16qm_8x_2y_krs_2rs.a" />
+  </module>
+  <module type="component" id="libavr25g1s2_16qm_8x_2y_krs_4rs.a" caption="libavr25g1s2_16qm_8x_2y_krs_4rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr25g1s2_16qm_8x_2y_krs_4rs.a" />
+  </module>
+  <module type="component" id="libavr25g1s2_16qm_8x_2y_k_0rs.a" caption="libavr25g1s2_16qm_8x_2y_k_0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr25g1s2_16qm_8x_2y_k_0rs.a" />
+  </module>
+  <module type="component" id="libavr25g1s2_4qm_4x_1y_krs_1rs.a" caption="libavr25g1s2_4qm_4x_1y_krs_1rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr25g1s2_4qm_4x_1y_krs_1rs.a" />
+  </module>
+  <module type="component" id="libavr25g1s2_4qm_4x_1y_k_0rs.a" caption="libavr25g1s2_4qm_4x_1y_k_0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr25g1s2_4qm_4x_1y_k_0rs.a" />
+  </module>
+  <module type="component" id="libavr25g1s2_8qm_4x_2y_krs_2rs.a" caption="libavr25g1s2_8qm_4x_2y_krs_2rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr25g1s2_8qm_4x_2y_krs_2rs.a" />
+  </module>
+  <module type="component" id="libavr25g1s2_8qm_4x_2y_k_0rs.a" caption="libavr25g1s2_8qm_4x_2y_k_0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr25g1s2_8qm_4x_2y_k_0rs.a" />
+  </module>
+  <module type="component" id="libavr4g1s1_16qm_4x_4y_krs_2rs.a" caption="libavr4g1s1_16qm_4x_4y_krs_2rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr4g1s1_16qm_4x_4y_krs_2rs.a" />
+  </module>
+  <module type="component" id="libavr4g1s1_16qm_4x_4y_krs_4rs.a" caption="libavr4g1s1_16qm_4x_4y_krs_4rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr4g1s1_16qm_4x_4y_krs_4rs.a" />
+  </module>
+  <module type="component" id="libavr4g1s1_16qm_4x_4y_k_0rs.a" caption="libavr4g1s1_16qm_4x_4y_k_0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr4g1s1_16qm_4x_4y_k_0rs.a" />
+  </module>
+  <module type="component" id="libavr4g1s1_16qm_8x_2y_krs_2rs.a" caption="libavr4g1s1_16qm_8x_2y_krs_2rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr4g1s1_16qm_8x_2y_krs_2rs.a" />
+  </module>
+  <module type="component" id="libavr4g1s1_16qm_8x_2y_krs_4rs.a" caption="libavr4g1s1_16qm_8x_2y_krs_4rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr4g1s1_16qm_8x_2y_krs_4rs.a" />
+  </module>
+  <module type="component" id="libavr4g1s1_16qm_8x_2y_k_0rs.a" caption="libavr4g1s1_16qm_8x_2y_k_0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr4g1s1_16qm_8x_2y_k_0rs.a" />
+  </module>
+  <module type="component" id="libavr4g1s1_32qm_8x_4y_krs_4rs.a" caption="libavr4g1s1_32qm_8x_4y_krs_4rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr4g1s1_32qm_8x_4y_krs_4rs.a" />
+  </module>
+  <module type="component" id="libavr4g1s1_32qm_8x_4y_k_0rs.a" caption="libavr4g1s1_32qm_8x_4y_k_0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr4g1s1_32qm_8x_4y_k_0rs.a" />
+  </module>
+  <module type="component" id="libavr4g1s1_4qm_4x_1y_krs_1rs.a" caption="libavr4g1s1_4qm_4x_1y_krs_1rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr4g1s1_4qm_4x_1y_krs_1rs.a" />
+  </module>
+  <module type="component" id="libavr4g1s1_4qm_4x_1y_k_0rs.a" caption="libavr4g1s1_4qm_4x_1y_k_0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr4g1s1_4qm_4x_1y_k_0rs.a" />
+  </module>
+  <module type="component" id="libavr4g1s1_8qm_4x_2y_krs_2rs.a" caption="libavr4g1s1_8qm_4x_2y_krs_2rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr4g1s1_8qm_4x_2y_krs_2rs.a" />
+  </module>
+  <module type="component" id="libavr4g1s1_8qm_4x_2y_k_0rs.a" caption="libavr4g1s1_8qm_4x_2y_k_0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr4g1s1_8qm_4x_2y_k_0rs.a" />
+  </module>
+  <module type="component" id="libavr51g1_16qm_4x_4y_krs_2rs.a" caption="libavr51g1_16qm_4x_4y_krs_2rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr51g1_16qm_4x_4y_krs_2rs.a" />
+  </module>
+  <module type="component" id="libavr51g1_16qm_4x_4y_krs_4rs.a" caption="libavr51g1_16qm_4x_4y_krs_4rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr51g1_16qm_4x_4y_krs_4rs.a" />
+  </module>
+  <module type="component" id="libavr51g1_16qm_4x_4y_k_0rs.a" caption="libavr51g1_16qm_4x_4y_k_0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr51g1_16qm_4x_4y_k_0rs.a" />
+  </module>
+  <module type="component" id="libavr51g1_16qm_8x_2y_krs_2rs.a" caption="libavr51g1_16qm_8x_2y_krs_2rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr51g1_16qm_8x_2y_krs_2rs.a" />
+  </module>
+  <module type="component" id="libavr51g1_16qm_8x_2y_krs_4rs.a" caption="libavr51g1_16qm_8x_2y_krs_4rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr51g1_16qm_8x_2y_krs_4rs.a" />
+  </module>
+  <module type="component" id="libavr51g1_16qm_8x_2y_k_0rs.a" caption="libavr51g1_16qm_8x_2y_k_0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr51g1_16qm_8x_2y_k_0rs.a" />
+  </module>
+  <module type="component" id="libavr51g1_32qm_8x_4y_krs_4rs.a" caption="libavr51g1_32qm_8x_4y_krs_4rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr51g1_32qm_8x_4y_krs_4rs.a" />
+  </module>
+  <module type="component" id="libavr51g1_32qm_8x_4y_k_0rs.a" caption="libavr51g1_32qm_8x_4y_k_0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr51g1_32qm_8x_4y_k_0rs.a" />
+  </module>
+  <module type="component" id="libavr51g1_4qm_4x_1y_krs_1rs.a" caption="libavr51g1_4qm_4x_1y_krs_1rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr51g1_4qm_4x_1y_krs_1rs.a" />
+  </module>
+  <module type="component" id="libavr51g1_4qm_4x_1y_k_0rs.a" caption="libavr51g1_4qm_4x_1y_k_0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr51g1_4qm_4x_1y_k_0rs.a" />
+  </module>
+  <module type="component" id="libavr51g1_64qm_8x_8y_krs_4rs.a" caption="libavr51g1_64qm_8x_8y_krs_4rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr51g1_64qm_8x_8y_krs_4rs.a" />
+  </module>
+  <module type="component" id="libavr51g1_64qm_8x_8y_krs_8rs.a" caption="libavr51g1_64qm_8x_8y_krs_8rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr51g1_64qm_8x_8y_krs_8rs.a" />
+  </module>
+  <module type="component" id="libavr51g1_64qm_8x_8y_k_0rs.a" caption="libavr51g1_64qm_8x_8y_k_0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr51g1_64qm_8x_8y_k_0rs.a" />
+  </module>
+  <module type="component" id="libavr51g1_8qm_4x_2y_krs_2rs.a" caption="libavr51g1_8qm_4x_2y_krs_2rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr51g1_8qm_4x_2y_krs_2rs.a" />
+  </module>
+  <module type="component" id="libavr51g1_8qm_4x_2y_k_0rs.a" caption="libavr51g1_8qm_4x_2y_k_0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr51g1_8qm_4x_2y_k_0rs.a" />
+  </module>
+  <module type="component" id="libavr51g2_16qm_4x_4y_krs_2rs.a" caption="libavr51g2_16qm_4x_4y_krs_2rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr51g2_16qm_4x_4y_krs_2rs.a" />
+  </module>
+  <module type="component" id="libavr51g2_16qm_4x_4y_krs_4rs.a" caption="libavr51g2_16qm_4x_4y_krs_4rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr51g2_16qm_4x_4y_krs_4rs.a" />
+  </module>
+  <module type="component" id="libavr51g2_16qm_4x_4y_k_0rs.a" caption="libavr51g2_16qm_4x_4y_k_0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr51g2_16qm_4x_4y_k_0rs.a" />
+  </module>
+  <module type="component" id="libavr51g2_16qm_8x_2y_krs_2rs.a" caption="libavr51g2_16qm_8x_2y_krs_2rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr51g2_16qm_8x_2y_krs_2rs.a" />
+  </module>
+  <module type="component" id="libavr51g2_16qm_8x_2y_krs_4rs.a" caption="libavr51g2_16qm_8x_2y_krs_4rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr51g2_16qm_8x_2y_krs_4rs.a" />
+  </module>
+  <module type="component" id="libavr51g2_16qm_8x_2y_k_0rs.a" caption="libavr51g2_16qm_8x_2y_k_0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr51g2_16qm_8x_2y_k_0rs.a" />
+  </module>
+  <module type="component" id="libavr51g2_32qm_8x_4y_krs_4rs.a" caption="libavr51g2_32qm_8x_4y_krs_4rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr51g2_32qm_8x_4y_krs_4rs.a" />
+  </module>
+  <module type="component" id="libavr51g2_32qm_8x_4y_k_0rs.a" caption="libavr51g2_32qm_8x_4y_k_0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr51g2_32qm_8x_4y_k_0rs.a" />
+  </module>
+  <module type="component" id="libavr51g2_4qm_4x_1y_krs_1rs.a" caption="libavr51g2_4qm_4x_1y_krs_1rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr51g2_4qm_4x_1y_krs_1rs.a" />
+  </module>
+  <module type="component" id="libavr51g2_4qm_4x_1y_k_0rs.a" caption="libavr51g2_4qm_4x_1y_k_0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr51g2_4qm_4x_1y_k_0rs.a" />
+  </module>
+  <module type="component" id="libavr51g2_64qm_8x_8y_krs_4rs.a" caption="libavr51g2_64qm_8x_8y_krs_4rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr51g2_64qm_8x_8y_krs_4rs.a" />
+  </module>
+  <module type="component" id="libavr51g2_64qm_8x_8y_krs_8rs.a" caption="libavr51g2_64qm_8x_8y_krs_8rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr51g2_64qm_8x_8y_krs_8rs.a" />
+  </module>
+  <module type="component" id="libavr51g2_64qm_8x_8y_k_0rs.a" caption="libavr51g2_64qm_8x_8y_k_0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr51g2_64qm_8x_8y_k_0rs.a" />
+  </module>
+  <module type="component" id="libavr51g2_8qm_4x_2y_krs_2rs.a" caption="libavr51g2_8qm_4x_2y_krs_2rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr51g2_8qm_4x_2y_krs_2rs.a" />
+  </module>
+  <module type="component" id="libavr51g2_8qm_4x_2y_k_0rs.a" caption="libavr51g2_8qm_4x_2y_k_0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr51g2_8qm_4x_2y_k_0rs.a" />
+  </module>
+  <module type="component" id="libavr5g3_16qm_4x_4y_krs_2rs.a" caption="libavr5g3_16qm_4x_4y_krs_2rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr5g3_16qm_4x_4y_krs_2rs.a" />
+  </module>
+  <module type="component" id="libavr5g3_16qm_4x_4y_krs_4rs.a" caption="libavr5g3_16qm_4x_4y_krs_4rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr5g3_16qm_4x_4y_krs_4rs.a" />
+  </module>
+  <module type="component" id="libavr5g3_16qm_4x_4y_k_0rs.a" caption="libavr5g3_16qm_4x_4y_k_0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr5g3_16qm_4x_4y_k_0rs.a" />
+  </module>
+  <module type="component" id="libavr5g3_16qm_8x_2y_krs_2rs.a" caption="libavr5g3_16qm_8x_2y_krs_2rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr5g3_16qm_8x_2y_krs_2rs.a" />
+  </module>
+  <module type="component" id="libavr5g3_16qm_8x_2y_krs_4rs.a" caption="libavr5g3_16qm_8x_2y_krs_4rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr5g3_16qm_8x_2y_krs_4rs.a" />
+  </module>
+  <module type="component" id="libavr5g3_16qm_8x_2y_k_0rs.a" caption="libavr5g3_16qm_8x_2y_k_0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr5g3_16qm_8x_2y_k_0rs.a" />
+  </module>
+  <module type="component" id="libavr5g3_32qm_8x_4y_krs_4rs.a" caption="libavr5g3_32qm_8x_4y_krs_4rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr5g3_32qm_8x_4y_krs_4rs.a" />
+  </module>
+  <module type="component" id="libavr5g3_32qm_8x_4y_k_0rs.a" caption="libavr5g3_32qm_8x_4y_k_0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr5g3_32qm_8x_4y_k_0rs.a" />
+  </module>
+  <module type="component" id="libavr5g3_4qm_4x_1y_krs_1rs.a" caption="libavr5g3_4qm_4x_1y_krs_1rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr5g3_4qm_4x_1y_krs_1rs.a" />
+  </module>
+  <module type="component" id="libavr5g3_4qm_4x_1y_k_0rs.a" caption="libavr5g3_4qm_4x_1y_k_0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr5g3_4qm_4x_1y_k_0rs.a" />
+  </module>
+  <module type="component" id="libavr5g3_64qm_8x_8y_krs_4rs.a" caption="libavr5g3_64qm_8x_8y_krs_4rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr5g3_64qm_8x_8y_krs_4rs.a" />
+  </module>
+  <module type="component" id="libavr5g3_64qm_8x_8y_krs_8rs.a" caption="libavr5g3_64qm_8x_8y_krs_8rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr5g3_64qm_8x_8y_krs_8rs.a" />
+  </module>
+  <module type="component" id="libavr5g3_64qm_8x_8y_k_0rs.a" caption="libavr5g3_64qm_8x_8y_k_0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr5g3_64qm_8x_8y_k_0rs.a" />
+  </module>
+  <module type="component" id="libavr5g3_8qm_4x_2y_krs_2rs.a" caption="libavr5g3_8qm_4x_2y_krs_2rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr5g3_8qm_4x_2y_krs_2rs.a" />
+  </module>
+  <module type="component" id="libavr5g3_8qm_4x_2y_k_0rs.a" caption="libavr5g3_8qm_4x_2y_k_0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr5g3_8qm_4x_2y_k_0rs.a" />
+  </module>
+  <module type="component" id="libavr5g4_16qm_4x_4y_krs_2rs.a" caption="libavr5g4_16qm_4x_4y_krs_2rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr5g4_16qm_4x_4y_krs_2rs.a" />
+  </module>
+  <module type="component" id="libavr5g4_16qm_4x_4y_krs_4rs.a" caption="libavr5g4_16qm_4x_4y_krs_4rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr5g4_16qm_4x_4y_krs_4rs.a" />
+  </module>
+  <module type="component" id="libavr5g4_16qm_4x_4y_k_0rs.a" caption="libavr5g4_16qm_4x_4y_k_0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr5g4_16qm_4x_4y_k_0rs.a" />
+  </module>
+  <module type="component" id="libavr5g4_16qm_8x_2y_krs_2rs.a" caption="libavr5g4_16qm_8x_2y_krs_2rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr5g4_16qm_8x_2y_krs_2rs.a" />
+  </module>
+  <module type="component" id="libavr5g4_16qm_8x_2y_krs_4rs.a" caption="libavr5g4_16qm_8x_2y_krs_4rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr5g4_16qm_8x_2y_krs_4rs.a" />
+  </module>
+  <module type="component" id="libavr5g4_16qm_8x_2y_k_0rs.a" caption="libavr5g4_16qm_8x_2y_k_0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr5g4_16qm_8x_2y_k_0rs.a" />
+  </module>
+  <module type="component" id="libavr5g4_32qm_8x_4y_krs_4rs.a" caption="libavr5g4_32qm_8x_4y_krs_4rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr5g4_32qm_8x_4y_krs_4rs.a" />
+  </module>
+  <module type="component" id="libavr5g4_32qm_8x_4y_k_0rs.a" caption="libavr5g4_32qm_8x_4y_k_0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr5g4_32qm_8x_4y_k_0rs.a" />
+  </module>
+  <module type="component" id="libavr5g4_4qm_4x_1y_krs_1rs.a" caption="libavr5g4_4qm_4x_1y_krs_1rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr5g4_4qm_4x_1y_krs_1rs.a" />
+  </module>
+  <module type="component" id="libavr5g4_4qm_4x_1y_k_0rs.a" caption="libavr5g4_4qm_4x_1y_k_0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr5g4_4qm_4x_1y_k_0rs.a" />
+  </module>
+  <module type="component" id="libavr5g4_64qm_8x_8y_krs_4rs.a" caption="libavr5g4_64qm_8x_8y_krs_4rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr5g4_64qm_8x_8y_krs_4rs.a" />
+  </module>
+  <module type="component" id="libavr5g4_64qm_8x_8y_krs_8rs.a" caption="libavr5g4_64qm_8x_8y_krs_8rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr5g4_64qm_8x_8y_krs_8rs.a" />
+  </module>
+  <module type="component" id="libavr5g4_64qm_8x_8y_k_0rs.a" caption="libavr5g4_64qm_8x_8y_k_0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr5g4_64qm_8x_8y_k_0rs.a" />
+  </module>
+  <module type="component" id="libavr5g4_8qm_4x_2y_krs_2rs.a" caption="libavr5g4_8qm_4x_2y_krs_2rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr5g4_8qm_4x_2y_krs_2rs.a" />
+  </module>
+  <module type="component" id="libavr5g4_8qm_4x_2y_k_0rs.a" caption="libavr5g4_8qm_4x_2y_k_0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr5g4_8qm_4x_2y_k_0rs.a" />
+  </module>
+  <module type="component" id="libavr5g6_4qm_4x_1y_krs_1rs.a" caption="libavr5g6_4qm_4x_1y_krs_1rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr5g6_4qm_4x_1y_krs_1rs.a" />
+  </module>
+  <module type="component" id="libavr5g6_4qm_4x_1y_k_0rs.a" caption="libavr5g6_4qm_4x_1y_k_0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr5g6_4qm_4x_1y_k_0rs.a" />
+  </module>
+  <module type="component" id="libavr5g6_8qm_8x_1y_krs_2rs.a" caption="libavr5g6_8qm_8x_1y_krs_2rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr5g6_8qm_8x_1y_krs_2rs.a" />
+  </module>
+  <module type="component" id="libavr5g6_8qm_8x_1y_k_0rs.a" caption="libavr5g6_8qm_8x_1y_k_0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr5g6_8qm_8x_1y_k_0rs.a" />
+  </module>
+  <module type="component" id="libavrxmega2_16qm_4x_4y_krs_2rs.a" caption="libavrxmega2_16qm_4x_4y_krs_2rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavrxmega2_16qm_4x_4y_krs_2rs.a" />
+  </module>
+  <module type="component" id="libavrxmega2_16qm_4x_4y_krs_4rs.a" caption="libavrxmega2_16qm_4x_4y_krs_4rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavrxmega2_16qm_4x_4y_krs_4rs.a" />
+  </module>
+  <module type="component" id="libavrxmega2_16qm_4x_4y_k_0rs.a" caption="libavrxmega2_16qm_4x_4y_k_0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavrxmega2_16qm_4x_4y_k_0rs.a" />
+  </module>
+  <module type="component" id="libavrxmega2_16qm_8x_2y_krs_2rs.a" caption="libavrxmega2_16qm_8x_2y_krs_2rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavrxmega2_16qm_8x_2y_krs_2rs.a" />
+  </module>
+  <module type="component" id="libavrxmega2_16qm_8x_2y_krs_4rs.a" caption="libavrxmega2_16qm_8x_2y_krs_4rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavrxmega2_16qm_8x_2y_krs_4rs.a" />
+  </module>
+  <module type="component" id="libavrxmega2_16qm_8x_2y_k_0rs.a" caption="libavrxmega2_16qm_8x_2y_k_0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavrxmega2_16qm_8x_2y_k_0rs.a" />
+  </module>
+  <module type="component" id="libavrxmega2_32qm_8x_4y_krs_4rs.a" caption="libavrxmega2_32qm_8x_4y_krs_4rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavrxmega2_32qm_8x_4y_krs_4rs.a" />
+  </module>
+  <module type="component" id="libavrxmega2_32qm_8x_4y_k_0rs.a" caption="libavrxmega2_32qm_8x_4y_k_0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavrxmega2_32qm_8x_4y_k_0rs.a" />
+  </module>
+  <module type="component" id="libavrxmega2_4qm_4x_1y_krs_1rs.a" caption="libavrxmega2_4qm_4x_1y_krs_1rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavrxmega2_4qm_4x_1y_krs_1rs.a" />
+  </module>
+  <module type="component" id="libavrxmega2_4qm_4x_1y_k_0rs.a" caption="libavrxmega2_4qm_4x_1y_k_0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavrxmega2_4qm_4x_1y_k_0rs.a" />
+  </module>
+  <module type="component" id="libavrxmega2_56qm_8x_7y_krs_4rs.a" caption="libavrxmega2_56qm_8x_7y_krs_4rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavrxmega2_56qm_8x_7y_krs_4rs.a" />
+  </module>
+  <module type="component" id="libavrxmega2_56qm_8x_7y_krs_8rs.a" caption="libavrxmega2_56qm_8x_7y_krs_8rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavrxmega2_56qm_8x_7y_krs_8rs.a" />
+  </module>
+  <module type="component" id="libavrxmega2_56qm_8x_7y_k_0rs.a" caption="libavrxmega2_56qm_8x_7y_k_0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavrxmega2_56qm_8x_7y_k_0rs.a" />
+  </module>
+  <module type="component" id="libavrxmega2_8qm_4x_2y_krs_2rs.a" caption="libavrxmega2_8qm_4x_2y_krs_2rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavrxmega2_8qm_4x_2y_krs_2rs.a" />
+  </module>
+  <module type="component" id="libavrxmega2_8qm_4x_2y_k_0rs.a" caption="libavrxmega2_8qm_4x_2y_k_0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavrxmega2_8qm_4x_2y_k_0rs.a" />
+  </module>
+  <module type="component" id="libavrxmega3_16qm_4x_4y_krs_2rs.a" caption="libavrxmega3_16qm_4x_4y_krs_2rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavrxmega3_16qm_4x_4y_krs_2rs.a" />
+  </module>
+  <module type="component" id="libavrxmega3_16qm_4x_4y_krs_4rs.a" caption="libavrxmega3_16qm_4x_4y_krs_4rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavrxmega3_16qm_4x_4y_krs_4rs.a" />
+  </module>
+  <module type="component" id="libavrxmega3_16qm_4x_4y_k_0rs.a" caption="libavrxmega3_16qm_4x_4y_k_0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavrxmega3_16qm_4x_4y_k_0rs.a" />
+  </module>
+  <module type="component" id="libavrxmega3_16qm_8x_2y_krs_2rs.a" caption="libavrxmega3_16qm_8x_2y_krs_2rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavrxmega3_16qm_8x_2y_krs_2rs.a" />
+  </module>
+  <module type="component" id="libavrxmega3_16qm_8x_2y_krs_4rs.a" caption="libavrxmega3_16qm_8x_2y_krs_4rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavrxmega3_16qm_8x_2y_krs_4rs.a" />
+  </module>
+  <module type="component" id="libavrxmega3_16qm_8x_2y_k_0rs.a" caption="libavrxmega3_16qm_8x_2y_k_0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavrxmega3_16qm_8x_2y_k_0rs.a" />
+  </module>
+  <module type="component" id="libavrxmega3_32qm_8x_4y_krs_4rs.a" caption="libavrxmega3_32qm_8x_4y_krs_4rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavrxmega3_32qm_8x_4y_krs_4rs.a" />
+  </module>
+  <module type="component" id="libavrxmega3_32qm_8x_4y_k_0rs.a" caption="libavrxmega3_32qm_8x_4y_k_0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavrxmega3_32qm_8x_4y_k_0rs.a" />
+  </module>
+  <module type="component" id="libavrxmega3_4qm_4x_1y_krs_1rs.a" caption="libavrxmega3_4qm_4x_1y_krs_1rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavrxmega3_4qm_4x_1y_krs_1rs.a" />
+  </module>
+  <module type="component" id="libavrxmega3_4qm_4x_1y_k_0rs.a" caption="libavrxmega3_4qm_4x_1y_k_0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavrxmega3_4qm_4x_1y_k_0rs.a" />
+  </module>
+  <module type="component" id="libavrxmega3_56qm_8x_7y_krs_4rs.a" caption="libavrxmega3_56qm_8x_7y_krs_4rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavrxmega3_56qm_8x_7y_krs_4rs.a" />
+  </module>
+  <module type="component" id="libavrxmega3_56qm_8x_7y_krs_8rs.a" caption="libavrxmega3_56qm_8x_7y_krs_8rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavrxmega3_56qm_8x_7y_krs_8rs.a" />
+  </module>
+  <module type="component" id="libavrxmega3_56qm_8x_7y_k_0rs.a" caption="libavrxmega3_56qm_8x_7y_k_0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavrxmega3_56qm_8x_7y_k_0rs.a" />
+  </module>
+  <module type="component" id="libavrxmega3_8qm_4x_2y_krs_2rs.a" caption="libavrxmega3_8qm_4x_2y_krs_2rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavrxmega3_8qm_4x_2y_krs_2rs.a" />
+  </module>
+  <module type="component" id="libavrxmega3_8qm_4x_2y_k_0rs.a" caption="libavrxmega3_8qm_4x_2y_k_0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavrxmega3_8qm_4x_2y_k_0rs.a" />
+  </module>
+  <module type="component" id="libavrxmega4_16qm_4x_4y_krs_2rs.a" caption="libavrxmega4_16qm_4x_4y_krs_2rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavrxmega4_16qm_4x_4y_krs_2rs.a" />
+  </module>
+  <module type="component" id="libavrxmega4_16qm_4x_4y_krs_4rs.a" caption="libavrxmega4_16qm_4x_4y_krs_4rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavrxmega4_16qm_4x_4y_krs_4rs.a" />
+  </module>
+  <module type="component" id="libavrxmega4_16qm_4x_4y_k_0rs.a" caption="libavrxmega4_16qm_4x_4y_k_0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavrxmega4_16qm_4x_4y_k_0rs.a" />
+  </module>
+  <module type="component" id="libavrxmega4_16qm_8x_2y_krs_2rs.a" caption="libavrxmega4_16qm_8x_2y_krs_2rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavrxmega4_16qm_8x_2y_krs_2rs.a" />
+  </module>
+  <module type="component" id="libavrxmega4_16qm_8x_2y_krs_4rs.a" caption="libavrxmega4_16qm_8x_2y_krs_4rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavrxmega4_16qm_8x_2y_krs_4rs.a" />
+  </module>
+  <module type="component" id="libavrxmega4_16qm_8x_2y_k_0rs.a" caption="libavrxmega4_16qm_8x_2y_k_0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavrxmega4_16qm_8x_2y_k_0rs.a" />
+  </module>
+  <module type="component" id="libavrxmega4_32qm_8x_4y_krs_4rs.a" caption="libavrxmega4_32qm_8x_4y_krs_4rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavrxmega4_32qm_8x_4y_krs_4rs.a" />
+  </module>
+  <module type="component" id="libavrxmega4_32qm_8x_4y_k_0rs.a" caption="libavrxmega4_32qm_8x_4y_k_0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavrxmega4_32qm_8x_4y_k_0rs.a" />
+  </module>
+  <module type="component" id="libavrxmega4_4qm_4x_1y_krs_1rs.a" caption="libavrxmega4_4qm_4x_1y_krs_1rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavrxmega4_4qm_4x_1y_krs_1rs.a" />
+  </module>
+  <module type="component" id="libavrxmega4_4qm_4x_1y_k_0rs.a" caption="libavrxmega4_4qm_4x_1y_k_0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavrxmega4_4qm_4x_1y_k_0rs.a" />
+  </module>
+  <module type="component" id="libavrxmega4_56qm_8x_7y_krs_4rs.a" caption="libavrxmega4_56qm_8x_7y_krs_4rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavrxmega4_56qm_8x_7y_krs_4rs.a" />
+  </module>
+  <module type="component" id="libavrxmega4_56qm_8x_7y_krs_8rs.a" caption="libavrxmega4_56qm_8x_7y_krs_8rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavrxmega4_56qm_8x_7y_krs_8rs.a" />
+  </module>
+  <module type="component" id="libavrxmega4_56qm_8x_7y_k_0rs.a" caption="libavrxmega4_56qm_8x_7y_k_0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavrxmega4_56qm_8x_7y_k_0rs.a" />
+  </module>
+  <module type="component" id="libavrxmega4_8qm_4x_2y_krs_2rs.a" caption="libavrxmega4_8qm_4x_2y_krs_2rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavrxmega4_8qm_4x_2y_krs_2rs.a" />
+  </module>
+  <module type="component" id="libavrxmega4_8qm_4x_2y_k_0rs.a" caption="libavrxmega4_8qm_4x_2y_k_0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavrxmega4_8qm_4x_2y_k_0rs.a" />
+  </module>
+  <module type="component" id="libavrxmega5_16qm_4x_4y_krs_2rs.a" caption="libavrxmega5_16qm_4x_4y_krs_2rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavrxmega5_16qm_4x_4y_krs_2rs.a" />
+  </module>
+  <module type="component" id="libavrxmega5_16qm_4x_4y_krs_4rs.a" caption="libavrxmega5_16qm_4x_4y_krs_4rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavrxmega5_16qm_4x_4y_krs_4rs.a" />
+  </module>
+  <module type="component" id="libavrxmega5_16qm_4x_4y_k_0rs.a" caption="libavrxmega5_16qm_4x_4y_k_0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavrxmega5_16qm_4x_4y_k_0rs.a" />
+  </module>
+  <module type="component" id="libavrxmega5_16qm_8x_2y_krs_2rs.a" caption="libavrxmega5_16qm_8x_2y_krs_2rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavrxmega5_16qm_8x_2y_krs_2rs.a" />
+  </module>
+  <module type="component" id="libavrxmega5_16qm_8x_2y_krs_4rs.a" caption="libavrxmega5_16qm_8x_2y_krs_4rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavrxmega5_16qm_8x_2y_krs_4rs.a" />
+  </module>
+  <module type="component" id="libavrxmega5_16qm_8x_2y_k_0rs.a" caption="libavrxmega5_16qm_8x_2y_k_0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavrxmega5_16qm_8x_2y_k_0rs.a" />
+  </module>
+  <module type="component" id="libavrxmega5_32qm_8x_4y_krs_4rs.a" caption="libavrxmega5_32qm_8x_4y_krs_4rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavrxmega5_32qm_8x_4y_krs_4rs.a" />
+  </module>
+  <module type="component" id="libavrxmega5_32qm_8x_4y_k_0rs.a" caption="libavrxmega5_32qm_8x_4y_k_0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavrxmega5_32qm_8x_4y_k_0rs.a" />
+  </module>
+  <module type="component" id="libavrxmega5_4qm_4x_1y_krs_1rs.a" caption="libavrxmega5_4qm_4x_1y_krs_1rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavrxmega5_4qm_4x_1y_krs_1rs.a" />
+  </module>
+  <module type="component" id="libavrxmega5_4qm_4x_1y_k_0rs.a" caption="libavrxmega5_4qm_4x_1y_k_0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavrxmega5_4qm_4x_1y_k_0rs.a" />
+  </module>
+  <module type="component" id="libavrxmega5_56qm_8x_7y_krs_4rs.a" caption="libavrxmega5_56qm_8x_7y_krs_4rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavrxmega5_56qm_8x_7y_krs_4rs.a" />
+  </module>
+  <module type="component" id="libavrxmega5_56qm_8x_7y_krs_8rs.a" caption="libavrxmega5_56qm_8x_7y_krs_8rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavrxmega5_56qm_8x_7y_krs_8rs.a" />
+  </module>
+  <module type="component" id="libavrxmega5_56qm_8x_7y_k_0rs.a" caption="libavrxmega5_56qm_8x_7y_k_0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavrxmega5_56qm_8x_7y_k_0rs.a" />
+  </module>
+  <module type="component" id="libavrxmega5_8qm_4x_2y_krs_2rs.a" caption="libavrxmega5_8qm_4x_2y_krs_2rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavrxmega5_8qm_4x_2y_krs_2rs.a" />
+  </module>
+  <module type="component" id="libavrxmega5_8qm_4x_2y_k_0rs.a" caption="libavrxmega5_8qm_4x_2y_k_0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavrxmega5_8qm_4x_2y_k_0rs.a" />
+  </module>
+  <module type="component" id="libavrxmega6_16qm_4x_4y_krs_2rs.a" caption="libavrxmega6_16qm_4x_4y_krs_2rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavrxmega6_16qm_4x_4y_krs_2rs.a" />
+  </module>
+  <module type="component" id="libavrxmega6_16qm_4x_4y_krs_4rs.a" caption="libavrxmega6_16qm_4x_4y_krs_4rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavrxmega6_16qm_4x_4y_krs_4rs.a" />
+  </module>
+  <module type="component" id="libavrxmega6_16qm_4x_4y_k_0rs.a" caption="libavrxmega6_16qm_4x_4y_k_0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavrxmega6_16qm_4x_4y_k_0rs.a" />
+  </module>
+  <module type="component" id="libavrxmega6_16qm_8x_2y_krs_2rs.a" caption="libavrxmega6_16qm_8x_2y_krs_2rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavrxmega6_16qm_8x_2y_krs_2rs.a" />
+  </module>
+  <module type="component" id="libavrxmega6_16qm_8x_2y_krs_4rs.a" caption="libavrxmega6_16qm_8x_2y_krs_4rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavrxmega6_16qm_8x_2y_krs_4rs.a" />
+  </module>
+  <module type="component" id="libavrxmega6_16qm_8x_2y_k_0rs.a" caption="libavrxmega6_16qm_8x_2y_k_0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavrxmega6_16qm_8x_2y_k_0rs.a" />
+  </module>
+  <module type="component" id="libavrxmega6_32qm_8x_4y_krs_4rs.a" caption="libavrxmega6_32qm_8x_4y_krs_4rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavrxmega6_32qm_8x_4y_krs_4rs.a" />
+  </module>
+  <module type="component" id="libavrxmega6_32qm_8x_4y_k_0rs.a" caption="libavrxmega6_32qm_8x_4y_k_0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavrxmega6_32qm_8x_4y_k_0rs.a" />
+  </module>
+  <module type="component" id="libavrxmega6_4qm_4x_1y_krs_1rs.a" caption="libavrxmega6_4qm_4x_1y_krs_1rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavrxmega6_4qm_4x_1y_krs_1rs.a" />
+  </module>
+  <module type="component" id="libavrxmega6_4qm_4x_1y_k_0rs.a" caption="libavrxmega6_4qm_4x_1y_k_0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavrxmega6_4qm_4x_1y_k_0rs.a" />
+  </module>
+  <module type="component" id="libavrxmega6_56qm_8x_7y_krs_4rs.a" caption="libavrxmega6_56qm_8x_7y_krs_4rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavrxmega6_56qm_8x_7y_krs_4rs.a" />
+  </module>
+  <module type="component" id="libavrxmega6_56qm_8x_7y_krs_8rs.a" caption="libavrxmega6_56qm_8x_7y_krs_8rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavrxmega6_56qm_8x_7y_krs_8rs.a" />
+  </module>
+  <module type="component" id="libavrxmega6_56qm_8x_7y_k_0rs.a" caption="libavrxmega6_56qm_8x_7y_k_0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavrxmega6_56qm_8x_7y_k_0rs.a" />
+  </module>
+  <module type="component" id="libavrxmega6_8qm_4x_2y_krs_2rs.a" caption="libavrxmega6_8qm_4x_2y_krs_2rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavrxmega6_8qm_4x_2y_krs_2rs.a" />
+  </module>
+  <module type="component" id="libavrxmega6_8qm_4x_2y_k_0rs.a" caption="libavrxmega6_8qm_4x_2y_k_0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavrxmega6_8qm_4x_2y_k_0rs.a" />
+  </module>
+  <module type="component" id="libavrxmega7_16qm_4x_4y_krs_2rs.a" caption="libavrxmega7_16qm_4x_4y_krs_2rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavrxmega7_16qm_4x_4y_krs_2rs.a" />
+  </module>
+  <module type="component" id="libavrxmega7_16qm_4x_4y_krs_4rs.a" caption="libavrxmega7_16qm_4x_4y_krs_4rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavrxmega7_16qm_4x_4y_krs_4rs.a" />
+  </module>
+  <module type="component" id="libavrxmega7_16qm_4x_4y_k_0rs.a" caption="libavrxmega7_16qm_4x_4y_k_0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavrxmega7_16qm_4x_4y_k_0rs.a" />
+  </module>
+  <module type="component" id="libavrxmega7_16qm_8x_2y_krs_2rs.a" caption="libavrxmega7_16qm_8x_2y_krs_2rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavrxmega7_16qm_8x_2y_krs_2rs.a" />
+  </module>
+  <module type="component" id="libavrxmega7_16qm_8x_2y_krs_4rs.a" caption="libavrxmega7_16qm_8x_2y_krs_4rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavrxmega7_16qm_8x_2y_krs_4rs.a" />
+  </module>
+  <module type="component" id="libavrxmega7_16qm_8x_2y_k_0rs.a" caption="libavrxmega7_16qm_8x_2y_k_0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavrxmega7_16qm_8x_2y_k_0rs.a" />
+  </module>
+  <module type="component" id="libavrxmega7_32qm_8x_4y_krs_4rs.a" caption="libavrxmega7_32qm_8x_4y_krs_4rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavrxmega7_32qm_8x_4y_krs_4rs.a" />
+  </module>
+  <module type="component" id="libavrxmega7_32qm_8x_4y_k_0rs.a" caption="libavrxmega7_32qm_8x_4y_k_0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavrxmega7_32qm_8x_4y_k_0rs.a" />
+  </module>
+  <module type="component" id="libavrxmega7_4qm_4x_1y_krs_1rs.a" caption="libavrxmega7_4qm_4x_1y_krs_1rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavrxmega7_4qm_4x_1y_krs_1rs.a" />
+  </module>
+  <module type="component" id="libavrxmega7_4qm_4x_1y_k_0rs.a" caption="libavrxmega7_4qm_4x_1y_k_0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavrxmega7_4qm_4x_1y_k_0rs.a" />
+  </module>
+  <module type="component" id="libavrxmega7_56qm_8x_7y_krs_4rs.a" caption="libavrxmega7_56qm_8x_7y_krs_4rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavrxmega7_56qm_8x_7y_krs_4rs.a" />
+  </module>
+  <module type="component" id="libavrxmega7_56qm_8x_7y_krs_8rs.a" caption="libavrxmega7_56qm_8x_7y_krs_8rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavrxmega7_56qm_8x_7y_krs_8rs.a" />
+  </module>
+  <module type="component" id="libavrxmega7_56qm_8x_7y_k_0rs.a" caption="libavrxmega7_56qm_8x_7y_k_0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavrxmega7_56qm_8x_7y_k_0rs.a" />
+  </module>
+  <module type="component" id="libavrxmega7_8qm_4x_2y_krs_2rs.a" caption="libavrxmega7_8qm_4x_2y_krs_2rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavrxmega7_8qm_4x_2y_krs_2rs.a" />
+  </module>
+  <module type="component" id="libavrxmega7_8qm_4x_2y_k_0rs.a" caption="libavrxmega7_8qm_4x_2y_k_0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavrxmega7_8qm_4x_2y_k_0rs.a" />
+  </module>
+  <module type="component" id="libm128rfa1_16qm_4x_4y_krs_2rs.a" caption="libm128rfa1_16qm_4x_4y_krs_2rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libm128rfa1_16qm_4x_4y_krs_2rs.a" />
+  </module>
+  <module type="component" id="libm128rfa1_16qm_4x_4y_krs_4rs.a" caption="libm128rfa1_16qm_4x_4y_krs_4rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libm128rfa1_16qm_4x_4y_krs_4rs.a" />
+  </module>
+  <module type="component" id="libm128rfa1_16qm_4x_4y_k_0rs.a" caption="libm128rfa1_16qm_4x_4y_k_0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libm128rfa1_16qm_4x_4y_k_0rs.a" />
+  </module>
+  <module type="component" id="libm128rfa1_16qm_8x_2y_krs_2rs.a" caption="libm128rfa1_16qm_8x_2y_krs_2rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libm128rfa1_16qm_8x_2y_krs_2rs.a" />
+  </module>
+  <module type="component" id="libm128rfa1_16qm_8x_2y_krs_4rs.a" caption="libm128rfa1_16qm_8x_2y_krs_4rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libm128rfa1_16qm_8x_2y_krs_4rs.a" />
+  </module>
+  <module type="component" id="libm128rfa1_16qm_8x_2y_k_0rs.a" caption="libm128rfa1_16qm_8x_2y_k_0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libm128rfa1_16qm_8x_2y_k_0rs.a" />
+  </module>
+  <module type="component" id="libm128rfa1_32qm_8x_4y_krs_4rs.a" caption="libm128rfa1_32qm_8x_4y_krs_4rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libm128rfa1_32qm_8x_4y_krs_4rs.a" />
+  </module>
+  <module type="component" id="libm128rfa1_32qm_8x_4y_k_0rs.a" caption="libm128rfa1_32qm_8x_4y_k_0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libm128rfa1_32qm_8x_4y_k_0rs.a" />
+  </module>
+  <module type="component" id="libm128rfa1_4qm_4x_1y_krs_1rs.a" caption="libm128rfa1_4qm_4x_1y_krs_1rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libm128rfa1_4qm_4x_1y_krs_1rs.a" />
+  </module>
+  <module type="component" id="libm128rfa1_4qm_4x_1y_k_0rs.a" caption="libm128rfa1_4qm_4x_1y_k_0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libm128rfa1_4qm_4x_1y_k_0rs.a" />
+  </module>
+  <module type="component" id="libm128rfa1_64qm_8x_8y_krs_4rs.a" caption="libm128rfa1_64qm_8x_8y_krs_4rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libm128rfa1_64qm_8x_8y_krs_4rs.a" />
+  </module>
+  <module type="component" id="libm128rfa1_64qm_8x_8y_krs_8rs.a" caption="libm128rfa1_64qm_8x_8y_krs_8rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libm128rfa1_64qm_8x_8y_krs_8rs.a" />
+  </module>
+  <module type="component" id="libm128rfa1_64qm_8x_8y_k_0rs.a" caption="libm128rfa1_64qm_8x_8y_k_0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libm128rfa1_64qm_8x_8y_k_0rs.a" />
+  </module>
+  <module type="component" id="libm128rfa1_8qm_4x_2y_krs_2rs.a" caption="libm128rfa1_8qm_4x_2y_krs_2rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libm128rfa1_8qm_4x_2y_krs_2rs.a" />
+  </module>
+  <module type="component" id="libm128rfa1_8qm_4x_2y_k_0rs.a" caption="libm128rfa1_8qm_4x_2y_k_0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libm128rfa1_8qm_4x_2y_k_0rs.a" />
+  </module>
+  <module type="component" id="libm16_16qm_4x_4y_krs_2rs.a" caption="libm16_16qm_4x_4y_krs_2rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libm16_16qm_4x_4y_krs_2rs.a" />
+  </module>
+  <module type="component" id="libm16_16qm_4x_4y_krs_4rs.a" caption="libm16_16qm_4x_4y_krs_4rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libm16_16qm_4x_4y_krs_4rs.a" />
+  </module>
+  <module type="component" id="libm16_16qm_4x_4y_k_0rs.a" caption="libm16_16qm_4x_4y_k_0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libm16_16qm_4x_4y_k_0rs.a" />
+  </module>
+  <module type="component" id="libm16_16qm_8x_2y_krs_2rs.a" caption="libm16_16qm_8x_2y_krs_2rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libm16_16qm_8x_2y_krs_2rs.a" />
+  </module>
+  <module type="component" id="libm16_16qm_8x_2y_krs_4rs.a" caption="libm16_16qm_8x_2y_krs_4rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libm16_16qm_8x_2y_krs_4rs.a" />
+  </module>
+  <module type="component" id="libm16_16qm_8x_2y_k_0rs.a" caption="libm16_16qm_8x_2y_k_0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libm16_16qm_8x_2y_k_0rs.a" />
+  </module>
+  <module type="component" id="libm16_32qm_8x_4y_krs_4rs.a" caption="libm16_32qm_8x_4y_krs_4rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libm16_32qm_8x_4y_krs_4rs.a" />
+  </module>
+  <module type="component" id="libm16_32qm_8x_4y_k_0rs.a" caption="libm16_32qm_8x_4y_k_0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libm16_32qm_8x_4y_k_0rs.a" />
+  </module>
+  <module type="component" id="libm16_4qm_4x_1y_krs_1rs.a" caption="libm16_4qm_4x_1y_krs_1rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libm16_4qm_4x_1y_krs_1rs.a" />
+  </module>
+  <module type="component" id="libm16_4qm_4x_1y_k_0rs.a" caption="libm16_4qm_4x_1y_k_0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libm16_4qm_4x_1y_k_0rs.a" />
+  </module>
+  <module type="component" id="libm16_8qm_4x_2y_krs_2rs.a" caption="libm16_8qm_4x_2y_krs_2rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libm16_8qm_4x_2y_krs_2rs.a" />
+  </module>
+  <module type="component" id="libm16_8qm_4x_2y_k_0rs.a" caption="libm16_8qm_4x_2y_k_0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libm16_8qm_4x_2y_k_0rs.a" />
+  </module>
+  <module type="component" id="libm64a_16qm_4x_4y_krs_2rs.a" caption="libm64a_16qm_4x_4y_krs_2rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libm64a_16qm_4x_4y_krs_2rs.a" />
+  </module>
+  <module type="component" id="libm64a_16qm_4x_4y_krs_4rs.a" caption="libm64a_16qm_4x_4y_krs_4rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libm64a_16qm_4x_4y_krs_4rs.a" />
+  </module>
+  <module type="component" id="libm64a_16qm_4x_4y_k_0rs.a" caption="libm64a_16qm_4x_4y_k_0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libm64a_16qm_4x_4y_k_0rs.a" />
+  </module>
+  <module type="component" id="libm64a_16qm_8x_2y_krs_2rs.a" caption="libm64a_16qm_8x_2y_krs_2rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libm64a_16qm_8x_2y_krs_2rs.a" />
+  </module>
+  <module type="component" id="libm64a_16qm_8x_2y_krs_4rs.a" caption="libm64a_16qm_8x_2y_krs_4rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libm64a_16qm_8x_2y_krs_4rs.a" />
+  </module>
+  <module type="component" id="libm64a_16qm_8x_2y_k_0rs.a" caption="libm64a_16qm_8x_2y_k_0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libm64a_16qm_8x_2y_k_0rs.a" />
+  </module>
+  <module type="component" id="libm64a_32qm_8x_4y_krs_4rs.a" caption="libm64a_32qm_8x_4y_krs_4rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libm64a_32qm_8x_4y_krs_4rs.a" />
+  </module>
+  <module type="component" id="libm64a_32qm_8x_4y_k_0rs.a" caption="libm64a_32qm_8x_4y_k_0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libm64a_32qm_8x_4y_k_0rs.a" />
+  </module>
+  <module type="component" id="libm64a_4qm_4x_1y_krs_1rs.a" caption="libm64a_4qm_4x_1y_krs_1rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libm64a_4qm_4x_1y_krs_1rs.a" />
+  </module>
+  <module type="component" id="libm64a_4qm_4x_1y_k_0rs.a" caption="libm64a_4qm_4x_1y_k_0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libm64a_4qm_4x_1y_k_0rs.a" />
+  </module>
+  <module type="component" id="libm64a_64qm_8x_8y_krs_4rs.a" caption="libm64a_64qm_8x_8y_krs_4rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libm64a_64qm_8x_8y_krs_4rs.a" />
+  </module>
+  <module type="component" id="libm64a_64qm_8x_8y_krs_8rs.a" caption="libm64a_64qm_8x_8y_krs_8rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libm64a_64qm_8x_8y_krs_8rs.a" />
+  </module>
+  <module type="component" id="libm64a_64qm_8x_8y_k_0rs.a" caption="libm64a_64qm_8x_8y_k_0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libm64a_64qm_8x_8y_k_0rs.a" />
+  </module>
+  <module type="component" id="libm64a_8qm_4x_2y_krs_2rs.a" caption="libm64a_8qm_4x_2y_krs_2rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libm64a_8qm_4x_2y_krs_2rs.a" />
+  </module>
+  <module type="component" id="libm64a_8qm_4x_2y_k_0rs.a" caption="libm64a_8qm_4x_2y_k_0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libm64a_8qm_4x_2y_k_0rs.a" />
+  </module>
+  <module type="component" id="libm64_16qm_4x_4y_krs_2rs.a" caption="libm64_16qm_4x_4y_krs_2rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libm64_16qm_4x_4y_krs_2rs.a" />
+  </module>
+  <module type="component" id="libm64_16qm_4x_4y_krs_4rs.a" caption="libm64_16qm_4x_4y_krs_4rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libm64_16qm_4x_4y_krs_4rs.a" />
+  </module>
+  <module type="component" id="libm64_16qm_4x_4y_k_0rs.a" caption="libm64_16qm_4x_4y_k_0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libm64_16qm_4x_4y_k_0rs.a" />
+  </module>
+  <module type="component" id="libm64_16qm_8x_2y_krs_2rs.a" caption="libm64_16qm_8x_2y_krs_2rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libm64_16qm_8x_2y_krs_2rs.a" />
+  </module>
+  <module type="component" id="libm64_16qm_8x_2y_krs_4rs.a" caption="libm64_16qm_8x_2y_krs_4rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libm64_16qm_8x_2y_krs_4rs.a" />
+  </module>
+  <module type="component" id="libm64_16qm_8x_2y_k_0rs.a" caption="libm64_16qm_8x_2y_k_0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libm64_16qm_8x_2y_k_0rs.a" />
+  </module>
+  <module type="component" id="libm64_32qm_8x_4y_krs_4rs.a" caption="libm64_32qm_8x_4y_krs_4rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libm64_32qm_8x_4y_krs_4rs.a" />
+  </module>
+  <module type="component" id="libm64_32qm_8x_4y_k_0rs.a" caption="libm64_32qm_8x_4y_k_0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libm64_32qm_8x_4y_k_0rs.a" />
+  </module>
+  <module type="component" id="libm64_4qm_4x_1y_krs_1rs.a" caption="libm64_4qm_4x_1y_krs_1rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libm64_4qm_4x_1y_krs_1rs.a" />
+  </module>
+  <module type="component" id="libm64_4qm_4x_1y_k_0rs.a" caption="libm64_4qm_4x_1y_k_0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libm64_4qm_4x_1y_k_0rs.a" />
+  </module>
+  <module type="component" id="libm64_64qm_8x_8y_krs_4rs.a" caption="libm64_64qm_8x_8y_krs_4rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libm64_64qm_8x_8y_krs_4rs.a" />
+  </module>
+  <module type="component" id="libm64_64qm_8x_8y_krs_8rs.a" caption="libm64_64qm_8x_8y_krs_8rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libm64_64qm_8x_8y_krs_8rs.a" />
+  </module>
+  <module type="component" id="libm64_64qm_8x_8y_k_0rs.a" caption="libm64_64qm_8x_8y_k_0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libm64_64qm_8x_8y_k_0rs.a" />
+  </module>
+  <module type="component" id="libm64_8qm_4x_2y_krs_2rs.a" caption="libm64_8qm_4x_2y_krs_2rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libm64_8qm_4x_2y_krs_2rs.a" />
+  </module>
+  <module type="component" id="libm64_8qm_4x_2y_k_0rs.a" caption="libm64_8qm_4x_2y_k_0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libm64_8qm_4x_2y_k_0rs.a" />
+  </module>
+  <module type="component" id="libm8535_16qm_4x_4y_krs_2rs.a" caption="libm8535_16qm_4x_4y_krs_2rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libm8535_16qm_4x_4y_krs_2rs.a" />
+  </module>
+  <module type="component" id="libm8535_16qm_4x_4y_krs_4rs.a" caption="libm8535_16qm_4x_4y_krs_4rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libm8535_16qm_4x_4y_krs_4rs.a" />
+  </module>
+  <module type="component" id="libm8535_16qm_4x_4y_k_0rs.a" caption="libm8535_16qm_4x_4y_k_0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libm8535_16qm_4x_4y_k_0rs.a" />
+  </module>
+  <module type="component" id="libm8535_16qm_8x_2y_krs_2rs.a" caption="libm8535_16qm_8x_2y_krs_2rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libm8535_16qm_8x_2y_krs_2rs.a" />
+  </module>
+  <module type="component" id="libm8535_16qm_8x_2y_krs_4rs.a" caption="libm8535_16qm_8x_2y_krs_4rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libm8535_16qm_8x_2y_krs_4rs.a" />
+  </module>
+  <module type="component" id="libm8535_16qm_8x_2y_k_0rs.a" caption="libm8535_16qm_8x_2y_k_0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libm8535_16qm_8x_2y_k_0rs.a" />
+  </module>
+  <module type="component" id="libm8535_4qm_4x_1y_krs_1rs.a" caption="libm8535_4qm_4x_1y_krs_1rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libm8535_4qm_4x_1y_krs_1rs.a" />
+  </module>
+  <module type="component" id="libm8535_4qm_4x_1y_k_0rs.a" caption="libm8535_4qm_4x_1y_k_0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libm8535_4qm_4x_1y_k_0rs.a" />
+  </module>
+  <module type="component" id="libm8535_8qm_4x_2y_krs_2rs.a" caption="libm8535_8qm_4x_2y_krs_2rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libm8535_8qm_4x_2y_krs_2rs.a" />
+  </module>
+  <module type="component" id="libm8535_8qm_4x_2y_k_0rs.a" caption="libm8535_8qm_4x_2y_k_0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libm8535_8qm_4x_2y_k_0rs.a" />
+  </module>
+  <module type="component" id="libt167_4qm_4x_1y_krs_1rs.a" caption="libt167_4qm_4x_1y_krs_1rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libt167_4qm_4x_1y_krs_1rs.a" />
+  </module>
+  <module type="component" id="libt167_4qm_4x_1y_k_0rs.a" caption="libt167_4qm_4x_1y_k_0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libt167_4qm_4x_1y_k_0rs.a" />
+  </module>
+  <module type="component" id="libt167_8qm_4x_2y_krs_2rs.a" caption="libt167_8qm_4x_2y_krs_2rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libt167_8qm_4x_2y_krs_2rs.a" />
+  </module>
+  <module type="component" id="libt167_8qm_4x_2y_k_0rs.a" caption="libt167_8qm_4x_2y_k_0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libt167_8qm_4x_2y_k_0rs.a" />
+  </module>
+</asf>

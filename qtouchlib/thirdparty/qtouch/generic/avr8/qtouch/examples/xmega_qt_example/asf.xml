@@ -1,0 +1,79 @@
+<asf xmlversion="1.0">
+
+	<select-by-device id="qtouch.generic.avr8.qtouch.examples.xmega.qtextension" caption="">
+		
+		<module type="meta" id="qtouch.generic.avr8.qtouch.examples.xmega.qtextension#atxmega128a1" caption="debug interface files">
+			<build type="header-file" value="avr_compiler.h" />
+			<build type="include-path" value="."/>	
+			<require idref="qtouch.generic.avr8.qtouch.examples.xmega.debug.interface.spi.qtextension"/>
+			<require idref="qtouch.generic.avr8.qtouch.examples.xmega.debug.interface.twi.qtextension"/>
+			<require idref="qtouch.generic.avr8.qtouch.examples.xmega.debug.interface.bit_bang_spi.qtextension"/>
+			<device-support value="atxmega128a1" />			
+		</module>
+
+		<module type="meta" id="qtouch.generic.avr8.qtouch.examples.xmega.qtextension#atxmega16a4" caption="debug interface files">
+			<require idref="qtouch.generic.avr8.qtouch.examples.xmega.debug.interface.bit_bang_spi.qtextension"/>
+			<device-support value="atxmega16a4" />
+		</module>
+
+		<module type="meta" id="qtouch.generic.avr8.qtouch.examples.xmega.qtextension#atxmega32a4" caption="debug interface files">
+			<require idref="qtouch.generic.avr8.qtouch.examples.xmega.debug.interface.bit_bang_spi.qtextension"/>
+			<device-support value="atxmega32a4" />		
+		</module>
+
+		<module type="meta" id="qtouch.generic.avr8.qtouch.examples.xmega.qtextension#atxmega16d4" caption="debug interface files">
+			<require idref="qtouch.generic.avr8.qtouch.examples.xmega.debug.interface.bit_bang_spi.qtextension"/>
+			<device-support value="atxmega16d4" />		
+		</module>
+
+		<module type="meta" id="qtouch.generic.avr8.qtouch.examples.xmega.qtextension#atxmega32d4" caption="debug interface files">
+			<require idref="qtouch.generic.avr8.qtouch.examples.xmega.debug.interface.bit_bang_spi.qtextension"/>
+			<device-support value="atxmega32d4" />		
+		</module>
+
+		<module type="meta" id="qtouch.generic.avr8.qtouch.examples.xmega.qtextension#atxmega384c3" caption="debug interface files">	
+			<require idref="qtouch.generic.avr8.qtouch.examples.xmega.debug.interface.bit_bang_spi.qtextension"/>
+			<device-support value="atxmega384c3" />
+		</module>		
+	
+	</select-by-device>
+
+		<module type="meta" id="qtouch.generic.avr8.qtouch.examples.xmega.conf.qtextension" caption="common files">
+			<build type="header-file" value="conf_clock.h"/>
+			<build type="header-file" value="conf_sleepmgr.h" />
+			<build type="header-file" value="QDebugSettings.h" />			
+			<build type="include-path" value="."/>
+		</module>
+
+		<module type="meta" id="qtouch.generic.avr8.qtouch.examples.xmega.debug.interface.spi.qtextension" caption="xmega debug interface SPI">
+			<info type="description" value="summary">
+			files required for xmega SPI debug interface files
+			</info>
+
+			<build type="c-source" value="SPI_Master.c" />
+			<build type="header-file" value="SPI_Master.h" />
+			<build type="include-path" value="."/>
+		</module>
+
+		<module type="meta" id="qtouch.generic.avr8.qtouch.examples.xmega.debug.interface.twi.qtextension" caption="xmega debug interface TWI">
+			<info type="description" value="summary">
+			files required for xmega TWI debug interface files
+			</info>
+
+			<build type="c-source" value="TWI_Master.c" />
+			<build type="header-file" value="TWI_Master.h" />
+			<build type="include-path" value="."/>
+		</module>
+
+		<module type="meta" id="qtouch.generic.avr8.qtouch.examples.xmega.debug.interface.bit_bang_spi.qtextension" caption="xmega debug interface Bit-Bang SPI">
+			<info type="description" value="summary">
+			files required for xmega Bit-Bang SPI debug interface files
+			</info>	
+			
+			<build type="c-source" value="BitBangSPI_Master.c" />
+			<build type="header-file" value="BitBangSPI_Master.h" />		
+			<build type="include-path" value="."/>
+		</module>	
+</asf>
+
+

@@ -1,0 +1,12 @@
+<asf xmlversion="1.0">
+
+	<module type="meta" id="qtouch.qtextension.license" caption="Licence file">
+		<info type="description" value="summary">
+		QTouch license file
+		</info>	
+	   	
+		<build type="distribute" subtype="file" value="license.txt"/>
+		<build type="include-path" value="."/>
+
+	</module>
+</asf>

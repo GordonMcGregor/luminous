@@ -1,0 +1,24 @@
+<asf xmlversion="1.0">
+	<project caption="SAM D20 Xplained Pro and QT1 Xplained Pro Mutual Capacitance example application" id="common.services.qtouch.devspecific.sam.samd.examples.example_qm_xplainedpro.samd20_xplainedpro.qtextension.project">
+		<info type="description" value="summary">
+		This QTouch Library example demonstrates PTC mutual capacitance method using SAM D20 Xplained Pro board and QT1 Xplained Pro Mutual Capacitance extension board.
+		</info>
+		
+		<build type="c-source" value="QTEXTENSION_PROJECT.c" />
+		
+		<require-external idref="board.samd20_xplained_pro" eidref="atmel.asf" />
+      		<require idref="common.services.qtouch.devspecific.sam.samd.examples.example_qm_xplainedpro.samd20_xplainedpro.qtextension" />
+		
+		<toolchain-config name="armgcc.linker.miscellaneous.LinkerFlags" value="-Wl,--entry=Reset_Handler -Wl,--cref -mthumb --specs=nano.specs" toolchain="armgcc"/>
+
+		<generator value="iarewarm"/>
+		<generator value="armgcc"/>
+		<generator value="as5_arm"/>
+		<generator value="doxygen-v2"/>		
+		<device-support value="atsamd20j18"/>
+		<info type="gui-flag" value="move-to-root"/>
+		<build type="distribute" subtype="license" value="../../../../../../license.txt"/>
+
+
+	</project>		
+</asf>

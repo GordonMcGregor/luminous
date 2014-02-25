@@ -1,0 +1,21 @@
+<asf xmlversion="1.0">
+	<module type="meta" id="qtouch.generic.include.touch_api.qtextension" caption="Touch API file">
+		
+		<info type="keyword" value="technology">
+			<keyword value="touch" />
+		</info>	
+
+		<build type="header-file" value="touch_api.h"/>
+		<build type="include-path" value="."/>			
+	</module>
+
+	<module type="meta" id="qtouch.generic.include.touch_api_2kdevice.qtextension" caption="Touch API file">
+		
+		<info type="keyword" value="technology">
+			<keyword value="touch" />
+		</info>	
+
+		<build type="header-file" value="touch_api_2kdevice.h"/>
+		<build type="include-path" value="."/>			
+	</module>
+</asf>

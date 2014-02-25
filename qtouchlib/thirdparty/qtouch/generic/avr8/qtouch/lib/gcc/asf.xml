@@ -1,0 +1,339 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asf xmlversion="1.0">
+  <module type="component" id="libavr25g1-12qt-k-0rs.a" caption="libavr25g1-12qt-k-0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr25g1-12qt-k-0rs.a" />
+  </module>
+  <module type="component" id="libavr25g1-12qt-k-3rs.a" caption="libavr25g1-12qt-k-3rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr25g1-12qt-k-3rs.a" />
+  </module>
+  <module type="component" id="libavr25g1-4qt-k-0rs.a" caption="libavr25g1-4qt-k-0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr25g1-4qt-k-0rs.a" />
+  </module>
+  <module type="component" id="libavr25g1-4qt-k-1rs.a" caption="libavr25g1-4qt-k-1rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr25g1-4qt-k-1rs.a" />
+  </module>
+  <module type="component" id="libavr25g1-8qt-k-0rs.a" caption="libavr25g1-8qt-k-0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr25g1-8qt-k-0rs.a" />
+  </module>
+  <module type="component" id="libavr25g1-8qt-k-2rs.a" caption="libavr25g1-8qt-k-2rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr25g1-8qt-k-2rs.a" />
+  </module>
+  <module type="component" id="libavr35g1-12qt-k-0rs.a" caption="libavr35g1-12qt-k-0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr35g1-12qt-k-0rs.a" />
+  </module>
+  <module type="component" id="libavr35g1-12qt-k-3rs.a" caption="libavr35g1-12qt-k-3rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr35g1-12qt-k-3rs.a" />
+  </module>
+  <module type="component" id="libavr35g1-4qt-k-0rs.a" caption="libavr35g1-4qt-k-0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr35g1-4qt-k-0rs.a" />
+  </module>
+  <module type="component" id="libavr35g1-4qt-k-1rs.a" caption="libavr35g1-4qt-k-1rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr35g1-4qt-k-1rs.a" />
+  </module>
+  <module type="component" id="libavr35g1-8qt-k-0rs.a" caption="libavr35g1-8qt-k-0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr35g1-8qt-k-0rs.a" />
+  </module>
+  <module type="component" id="libavr35g1-8qt-k-2rs.a" caption="libavr35g1-8qt-k-2rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr35g1-8qt-k-2rs.a" />
+  </module>
+  <module type="component" id="libavr4g1-12qt-k-0rs.a" caption="libavr4g1-12qt-k-0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr4g1-12qt-k-0rs.a" />
+  </module>
+  <module type="component" id="libavr4g1-12qt-k-3rs.a" caption="libavr4g1-12qt-k-3rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr4g1-12qt-k-3rs.a" />
+  </module>
+  <module type="component" id="libavr4g1-16qt-k-0rs.a" caption="libavr4g1-16qt-k-0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr4g1-16qt-k-0rs.a" />
+  </module>
+  <module type="component" id="libavr4g1-16qt-k-4rs.a" caption="libavr4g1-16qt-k-4rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr4g1-16qt-k-4rs.a" />
+  </module>
+  <module type="component" id="libavr4g1-4qt-k-0rs.a" caption="libavr4g1-4qt-k-0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr4g1-4qt-k-0rs.a" />
+  </module>
+  <module type="component" id="libavr4g1-4qt-k-1rs.a" caption="libavr4g1-4qt-k-1rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr4g1-4qt-k-1rs.a" />
+  </module>
+  <module type="component" id="libavr4g1-8qt-k-0rs.a" caption="libavr4g1-8qt-k-0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr4g1-8qt-k-0rs.a" />
+  </module>
+  <module type="component" id="libavr4g1-8qt-k-2rs.a" caption="libavr4g1-8qt-k-2rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr4g1-8qt-k-2rs.a" />
+  </module>
+  <module type="component" id="libavr51g1-12qt-k-0rs.a" caption="libavr51g1-12qt-k-0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr51g1-12qt-k-0rs.a" />
+  </module>
+  <module type="component" id="libavr51g1-12qt-k-3rs.a" caption="libavr51g1-12qt-k-3rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr51g1-12qt-k-3rs.a" />
+  </module>
+  <module type="component" id="libavr51g1-16qt-k-0rs.a" caption="libavr51g1-16qt-k-0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr51g1-16qt-k-0rs.a" />
+  </module>
+  <module type="component" id="libavr51g1-16qt-k-4rs.a" caption="libavr51g1-16qt-k-4rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr51g1-16qt-k-4rs.a" />
+  </module>
+  <module type="component" id="libavr51g1-4qt-k-0rs.a" caption="libavr51g1-4qt-k-0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr51g1-4qt-k-0rs.a" />
+  </module>
+  <module type="component" id="libavr51g1-4qt-k-1rs.a" caption="libavr51g1-4qt-k-1rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr51g1-4qt-k-1rs.a" />
+  </module>
+  <module type="component" id="libavr51g1-8qt-k-0rs.a" caption="libavr51g1-8qt-k-0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr51g1-8qt-k-0rs.a" />
+  </module>
+  <module type="component" id="libavr51g1-8qt-k-2rs.a" caption="libavr51g1-8qt-k-2rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr51g1-8qt-k-2rs.a" />
+  </module>
+  <module type="component" id="libavr5g1-12qt-k-0rs.a" caption="libavr5g1-12qt-k-0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr5g1-12qt-k-0rs.a" />
+  </module>
+  <module type="component" id="libavr5g1-12qt-k-3rs.a" caption="libavr5g1-12qt-k-3rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr5g1-12qt-k-3rs.a" />
+  </module>
+  <module type="component" id="libavr5g1-16qt-k-0rs.a" caption="libavr5g1-16qt-k-0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr5g1-16qt-k-0rs.a" />
+  </module>
+  <module type="component" id="libavr5g1-16qt-k-4rs.a" caption="libavr5g1-16qt-k-4rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr5g1-16qt-k-4rs.a" />
+  </module>
+  <module type="component" id="libavr5g1-4qt-k-0rs.a" caption="libavr5g1-4qt-k-0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr5g1-4qt-k-0rs.a" />
+  </module>
+  <module type="component" id="libavr5g1-4qt-k-1rs.a" caption="libavr5g1-4qt-k-1rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr5g1-4qt-k-1rs.a" />
+  </module>
+  <module type="component" id="libavr5g1-8qt-k-0rs.a" caption="libavr5g1-8qt-k-0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr5g1-8qt-k-0rs.a" />
+  </module>
+  <module type="component" id="libavr5g1-8qt-k-2rs.a" caption="libavr5g1-8qt-k-2rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavr5g1-8qt-k-2rs.a" />
+  </module>
+  <module type="component" id="libavrxmega2g1-12qt-k-0rs.a" caption="libavrxmega2g1-12qt-k-0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavrxmega2g1-12qt-k-0rs.a" />
+  </module>
+  <module type="component" id="libavrxmega2g1-12qt-k-3rs.a" caption="libavrxmega2g1-12qt-k-3rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavrxmega2g1-12qt-k-3rs.a" />
+  </module>
+  <module type="component" id="libavrxmega2g1-16qt-k-0rs.a" caption="libavrxmega2g1-16qt-k-0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavrxmega2g1-16qt-k-0rs.a" />
+  </module>
+  <module type="component" id="libavrxmega2g1-16qt-k-4rs.a" caption="libavrxmega2g1-16qt-k-4rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavrxmega2g1-16qt-k-4rs.a" />
+  </module>
+  <module type="component" id="libavrxmega2g1-4qt-k-0rs.a" caption="libavrxmega2g1-4qt-k-0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavrxmega2g1-4qt-k-0rs.a" />
+  </module>
+  <module type="component" id="libavrxmega2g1-4qt-k-1rs.a" caption="libavrxmega2g1-4qt-k-1rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavrxmega2g1-4qt-k-1rs.a" />
+  </module>
+  <module type="component" id="libavrxmega2g1-8qt-k-0rs.a" caption="libavrxmega2g1-8qt-k-0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavrxmega2g1-8qt-k-0rs.a" />
+  </module>
+  <module type="component" id="libavrxmega2g1-8qt-k-2rs.a" caption="libavrxmega2g1-8qt-k-2rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavrxmega2g1-8qt-k-2rs.a" />
+  </module>
+  <module type="component" id="libavrxmega3g1-12qt-k-0rs.a" caption="libavrxmega3g1-12qt-k-0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavrxmega3g1-12qt-k-0rs.a" />
+  </module>
+  <module type="component" id="libavrxmega3g1-12qt-k-3rs.a" caption="libavrxmega3g1-12qt-k-3rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavrxmega3g1-12qt-k-3rs.a" />
+  </module>
+  <module type="component" id="libavrxmega3g1-16qt-k-0rs.a" caption="libavrxmega3g1-16qt-k-0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavrxmega3g1-16qt-k-0rs.a" />
+  </module>
+  <module type="component" id="libavrxmega3g1-16qt-k-4rs.a" caption="libavrxmega3g1-16qt-k-4rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavrxmega3g1-16qt-k-4rs.a" />
+  </module>
+  <module type="component" id="libavrxmega3g1-4qt-k-0rs.a" caption="libavrxmega3g1-4qt-k-0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavrxmega3g1-4qt-k-0rs.a" />
+  </module>
+  <module type="component" id="libavrxmega3g1-4qt-k-1rs.a" caption="libavrxmega3g1-4qt-k-1rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavrxmega3g1-4qt-k-1rs.a" />
+  </module>
+  <module type="component" id="libavrxmega3g1-8qt-k-0rs.a" caption="libavrxmega3g1-8qt-k-0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavrxmega3g1-8qt-k-0rs.a" />
+  </module>
+  <module type="component" id="libavrxmega3g1-8qt-k-2rs.a" caption="libavrxmega3g1-8qt-k-2rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavrxmega3g1-8qt-k-2rs.a" />
+  </module>
+  <module type="component" id="libavrxmega4g1-12qt-k-0rs.a" caption="libavrxmega4g1-12qt-k-0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavrxmega4g1-12qt-k-0rs.a" />
+  </module>
+  <module type="component" id="libavrxmega4g1-12qt-k-3rs.a" caption="libavrxmega4g1-12qt-k-3rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavrxmega4g1-12qt-k-3rs.a" />
+  </module>
+  <module type="component" id="libavrxmega4g1-16qt-k-0rs.a" caption="libavrxmega4g1-16qt-k-0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavrxmega4g1-16qt-k-0rs.a" />
+  </module>
+  <module type="component" id="libavrxmega4g1-16qt-k-4rs.a" caption="libavrxmega4g1-16qt-k-4rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavrxmega4g1-16qt-k-4rs.a" />
+  </module>
+  <module type="component" id="libavrxmega4g1-4qt-k-0rs.a" caption="libavrxmega4g1-4qt-k-0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavrxmega4g1-4qt-k-0rs.a" />
+  </module>
+  <module type="component" id="libavrxmega4g1-4qt-k-1rs.a" caption="libavrxmega4g1-4qt-k-1rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavrxmega4g1-4qt-k-1rs.a" />
+  </module>
+  <module type="component" id="libavrxmega4g1-8qt-k-0rs.a" caption="libavrxmega4g1-8qt-k-0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavrxmega4g1-8qt-k-0rs.a" />
+  </module>
+  <module type="component" id="libavrxmega4g1-8qt-k-2rs.a" caption="libavrxmega4g1-8qt-k-2rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavrxmega4g1-8qt-k-2rs.a" />
+  </module>
+  <module type="component" id="libavrxmega5g1-12qt-k-0rs.a" caption="libavrxmega5g1-12qt-k-0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavrxmega5g1-12qt-k-0rs.a" />
+  </module>
+  <module type="component" id="libavrxmega5g1-12qt-k-3rs.a" caption="libavrxmega5g1-12qt-k-3rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavrxmega5g1-12qt-k-3rs.a" />
+  </module>
+  <module type="component" id="libavrxmega5g1-16qt-k-0rs.a" caption="libavrxmega5g1-16qt-k-0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavrxmega5g1-16qt-k-0rs.a" />
+  </module>
+  <module type="component" id="libavrxmega5g1-16qt-k-4rs.a" caption="libavrxmega5g1-16qt-k-4rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavrxmega5g1-16qt-k-4rs.a" />
+  </module>
+  <module type="component" id="libavrxmega5g1-4qt-k-0rs.a" caption="libavrxmega5g1-4qt-k-0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavrxmega5g1-4qt-k-0rs.a" />
+  </module>
+  <module type="component" id="libavrxmega5g1-4qt-k-1rs.a" caption="libavrxmega5g1-4qt-k-1rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavrxmega5g1-4qt-k-1rs.a" />
+  </module>
+  <module type="component" id="libavrxmega5g1-8qt-k-0rs.a" caption="libavrxmega5g1-8qt-k-0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavrxmega5g1-8qt-k-0rs.a" />
+  </module>
+  <module type="component" id="libavrxmega5g1-8qt-k-2rs.a" caption="libavrxmega5g1-8qt-k-2rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavrxmega5g1-8qt-k-2rs.a" />
+  </module>
+  <module type="component" id="libavrxmega6g1-12qt-k-0rs.a" caption="libavrxmega6g1-12qt-k-0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavrxmega6g1-12qt-k-0rs.a" />
+  </module>
+  <module type="component" id="libavrxmega6g1-12qt-k-3rs.a" caption="libavrxmega6g1-12qt-k-3rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavrxmega6g1-12qt-k-3rs.a" />
+  </module>
+  <module type="component" id="libavrxmega6g1-16qt-k-0rs.a" caption="libavrxmega6g1-16qt-k-0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavrxmega6g1-16qt-k-0rs.a" />
+  </module>
+  <module type="component" id="libavrxmega6g1-16qt-k-4rs.a" caption="libavrxmega6g1-16qt-k-4rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavrxmega6g1-16qt-k-4rs.a" />
+  </module>
+  <module type="component" id="libavrxmega6g1-4qt-k-0rs.a" caption="libavrxmega6g1-4qt-k-0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavrxmega6g1-4qt-k-0rs.a" />
+  </module>
+  <module type="component" id="libavrxmega6g1-4qt-k-1rs.a" caption="libavrxmega6g1-4qt-k-1rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavrxmega6g1-4qt-k-1rs.a" />
+  </module>
+  <module type="component" id="libavrxmega6g1-8qt-k-0rs.a" caption="libavrxmega6g1-8qt-k-0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavrxmega6g1-8qt-k-0rs.a" />
+  </module>
+  <module type="component" id="libavrxmega6g1-8qt-k-2rs.a" caption="libavrxmega6g1-8qt-k-2rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavrxmega6g1-8qt-k-2rs.a" />
+  </module>
+  <module type="component" id="libavrxmega7g1-12qt-k-0rs.a" caption="libavrxmega7g1-12qt-k-0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavrxmega7g1-12qt-k-0rs.a" />
+  </module>
+  <module type="component" id="libavrxmega7g1-12qt-k-3rs.a" caption="libavrxmega7g1-12qt-k-3rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavrxmega7g1-12qt-k-3rs.a" />
+  </module>
+  <module type="component" id="libavrxmega7g1-16qt-k-0rs.a" caption="libavrxmega7g1-16qt-k-0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavrxmega7g1-16qt-k-0rs.a" />
+  </module>
+  <module type="component" id="libavrxmega7g1-16qt-k-4rs.a" caption="libavrxmega7g1-16qt-k-4rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavrxmega7g1-16qt-k-4rs.a" />
+  </module>
+  <module type="component" id="libavrxmega7g1-4qt-k-0rs.a" caption="libavrxmega7g1-4qt-k-0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavrxmega7g1-4qt-k-0rs.a" />
+  </module>
+  <module type="component" id="libavrxmega7g1-4qt-k-1rs.a" caption="libavrxmega7g1-4qt-k-1rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavrxmega7g1-4qt-k-1rs.a" />
+  </module>
+  <module type="component" id="libavrxmega7g1-8qt-k-0rs.a" caption="libavrxmega7g1-8qt-k-0rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavrxmega7g1-8qt-k-0rs.a" />
+  </module>
+  <module type="component" id="libavrxmega7g1-8qt-k-2rs.a" caption="libavrxmega7g1-8qt-k-2rs.a">
+    <device-support value="*" />
+    <build type="library" subtype="user" value="libavrxmega7g1-8qt-k-2rs.a" />
+  </module>
+</asf>

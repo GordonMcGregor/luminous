@@ -1,0 +1,1 @@
+http://norvm-tools-m.norway.atmel.com/hudson/view/QTouch/job/QTouch-Library-5.2-Beta/
