@@ -1,0 +1,15 @@
+ 	
+	embedXcode
+	embedXcode+
+	----------------------------------
+	Embedded Computing on Xcode
+	
+	
+	© Rei VILO, 2010-2014
+	All rights reserved	
+	http://embedXcode.weebly.com/
+	
+	
+embedXcode  • Feb 10, 2014 release 132 • Warning and patches for Arduino 1.5.5
+embedXcode+ • Feb 10, 2014 release 132 • Warning and patches for Arduino 1.5.5
+	
