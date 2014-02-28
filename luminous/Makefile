@@ -45,7 +45,7 @@
 #
 # $Id$
 
-PORT = /dev/tty.usbserial*
+PORT = /dev/tty.usbmodem*
 TARGET = luminous
 BIN = /Applications/Arduino.app/Contents/Resources/Java/hardware/tools/avr/bin
 
@@ -59,12 +59,13 @@ CXXSRC = $(ARDUINO)/HardwareSerial.cpp $(ARDUINO)/CDC.cpp $(ARDUINO)/HID.cpp $(A
          $(ARDUINO)/main.cpp $(ARDUINO)/new.cpp $(ARDUINO)/Print.cpp $(ARDUINO)/Stream.cpp $(ARDUINO)/Tone.cpp \
          $(ARDUINO)/USBCore.cpp $(ARDUINO)/WMath.cpp $(ARDUINO)/WString.cpp $(ADAFRUIT)/Adafruit_NeoPixel.cpp
 
-QTOUCH_LIB = ../qtouchlib/thirdparty/qtouch/generic/avr8/qtouch/lib/gcc/libavr5g1-8qt-k-0rs.a
+#QTOUCH_LIB = ../qtouchlib/thirdparty/qtouch/generic/avr8/qtouch/lib/gcc/libavr5g1-8qt-k-0rs.a
+QTOUCH_LIB = 
 QTOUCH_INC = -I../qtouchlib/thirdparty/qtouch/generic/avr8/qtouch/common -I../qtouchlib/thirdparty/qtouch/generic/include -I../qtouchlib/thirdparty/qtouch/generic/avr8/qtouch/examples/avr5g1_qt_example
 MCU = atmega328p
 F_CPU = 16000000L
 FORMAT = ihex
-UPLOAD_RATE = 19200
+UPLOAD_RATE = 115200
 
 # Name of this Makefile (used for "make depend").
 MAKEFILE = Makefile
@@ -104,10 +105,13 @@ CXXFLAGS = $(CDEFS) $(CINCS) -O$(OPT)
 LDFLAGS = $(QTOUCH_LIB)
 
 # Programming support using avrdude. Settings and variables.
-AVRDUDE_PROGRAMMER = stk500
+AVRDUDE_PROGRAMMER = /Applications/Arduino.app/Contents/Resources/Java/hardware/tools/avr/etc/avrdude.conf 
 AVRDUDE_PORT = $(PORT)
 AVRDUDE_WRITE_FLASH = -U flash:w:$(TARGET).hex
-AVRDUDE_FLAGS = -F -p $(MCU) -P $(AVRDUDE_PORT) -c $(AVRDUDE_PROGRAMMER) -b $(UPLOAD_RATE)
+AVRDUDE_FLAGS = -F -p$(MCU) -P $(AVRDUDE_PORT) -C$(AVRDUDE_PROGRAMMER) -carduino -D -v -b$(UPLOAD_RATE)
+
+
+
 
 # Program settings
 CC = $(BIN)/avr-gcc

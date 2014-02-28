@@ -14,14 +14,8 @@
    limitations under the License.
 */
 
-#include <avr/io.h>
-#include <avr/interrupt.h>
-#define __delay_cycles(n)     __builtin_avr_delay_cycles(n)
-#define __enable_interrupt()  sei()
-
 
 #include <Adafruit_NeoPixel.h>
-#include "touch_api.h"
 
 #define PIN 6
 
@@ -77,13 +71,22 @@ void loop() {
   colorWipe(strip.Color(0, 255, 0), 50); // Green
   colorWipe(strip.Color(0, 0, 255), 50); // Blue
   // Send a theater pixel chase in...
-  theaterChase(strip.Color(127, 127, 127), 50); // White
+ /* theaterChase(strip.Color(127, 127, 127), 50); // White
   theaterChase(strip.Color(127,   0,   0), 50); // Red
   theaterChase(strip.Color(  0,   0, 127), 50); // Blue
 
   rainbow(20);
   rainbowCycle(20);
-  theaterChaseRainbow(50);
+  theaterChaseRainbow(50);*/
+}
+
+
+
+int main() {
+   init();
+   setup();
+   while(1)
+      loop();
 }
 
 // Fill the dots one after the other with a color
